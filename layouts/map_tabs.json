@@ -1,0 +1,424 @@
+{
+    "map_tabs": {
+        "type": "container",
+        "content": {
+            "type": "tabbed",
+            "width": 1000,
+            "tabs": [
+                {
+                    "title": "Acuity Lakefront",
+                    "content": {
+                        "type": "layout",
+                        "key": "acuity_lakefront"
+                    }
+                },
+                {
+                    "title": "Backlot Mansion",
+                    "content": {
+                        "type": "layout",
+                        "key": "mansion"
+                    }
+                },
+                {
+                    "title": "Canalave",
+                    "content": {
+                        "type": "layout",
+                        "key": "canalave"
+                    }
+                },
+                {
+                    "title": "Celestic",
+                    "content": {
+                        "type": "layout",
+                        "key": "celestic"
+                    }
+                },
+                {
+                    "title": "Dept. Store",
+                    "content": {
+                        "type": "layout",
+                        "key": "dept"
+                    }
+                },
+                {
+                    "title": "Eterna",
+                    "content": {
+                        "type": "layout",
+                        "key": "eterna"
+                    }
+                },
+                {
+                    "title": "Eterna Forest",
+                    "content": {
+                        "type": "layout",
+                        "key": "eterna_forest"
+                    }
+                },
+                {
+                    "title": "Eterna Gala. Build.",
+                    "content": {
+                        "type": "layout",
+                        "key": "eterna_galactic"
+                    }
+                },
+                {
+                    "title": "Fight Area",
+                    "content": {
+                        "type": "layout",
+                        "key": "fight_area"
+                    }
+                },
+                {
+                    "title": "Floaroma Meadow",
+                    "content": {
+                        "type": "layout",
+                        "key": "floaroma_meadow"
+                    }
+                },
+                {
+                    "title": "Floaroma",
+                    "content": {
+                        "type": "layout",
+                        "key": "floaroma"
+                    }
+                },
+                {
+                    "title": "Fuego Ironworks",
+                    "content": {
+                        "type": "layout",
+                        "key": "fuego_ironworks"
+                    }
+                },
+                {
+                    "title": "Galactic HQ",
+                    "content": {
+                        "type": "layout",
+                        "key": "galactic_hq"
+                    }
+                },
+                {
+                    "title": "Hearthome",
+                    "content": {
+                        "type": "layout",
+                        "key": "hearthome"
+                    }
+                },
+                {
+                    "title": "Iron Island",
+                    "content": {
+                        "type": "layout",
+                        "key": "iron_island"
+                    }
+                },
+                {
+                    "title": "Jubilife",
+                    "content": {
+                        "type": "layout",
+                        "key": "jubilife"
+                    }
+                },
+                {
+                    "title": "Jubilife TV",
+                    "content": {
+                        "type": "layout",
+                        "key": "jubilife_tv"
+                    }
+                },
+                {
+                    "title": "Mt. Coronet",
+                    "content": {
+                        "type": "layout",
+                        "key": "coronet"
+                    }
+                },
+                {
+                    "title": "Mt. Coronet Peak",
+                    "content": {
+                        "type": "layout",
+                        "key": "coronet_peak"
+                    }
+                },
+                {
+                    "title": "Old Chateau",
+                    "content": {
+                        "type": "layout",
+                        "key": "old_chateau"
+                    }
+                },
+                {
+                    "title": "Oreburgh",
+                    "content": {
+                        "type": "layout",
+                        "key": "oreburgh"
+                    }
+                },
+                {
+                    "title": "Oreburgh Gate",
+                    "content": {
+                        "type": "layout",
+                        "key": "oreburgh_gate"
+                    }
+                },
+                {
+                    "title": "Pastoria",
+                    "content": {
+                        "type": "layout",
+                        "key": "pastoria"
+                    }
+                },
+                {
+                    "title": "Pokémon League",
+                    "content": {
+                        "type": "layout",
+                        "key": "league"
+                    }
+                },
+                {
+                    "title": "Pokétch",
+                    "content": {
+                        "type": "layout",
+                        "key": "poketch"
+                    }
+                },
+                {
+                    "title": "Resort Area",
+                    "content": {
+                        "type": "layout",
+                        "key": "resort_area"
+                    }
+                },
+                {
+                    "title": "Sandgem",
+                    "content": {
+                        "type": "layout",
+                        "key": "sandgem"
+                    }
+                },
+                {
+                    "title": "Snowpoint",
+                    "content": {
+                        "type": "layout",
+                        "key": "snowpoint"
+                    }
+                },
+                {
+                    "title": "Solaceon Ruins",
+                    "content": {
+                        "type": "layout",
+                        "key": "solaceon_ruins"
+                    }
+                },
+                {
+                    "title": "Solaceon",
+                    "content": {
+                        "type": "layout",
+                        "key": "solaceon"
+                    }
+                },
+                {
+                    "title": "Spring Path",
+                    "content": {
+                        "type": "layout",
+                        "key": "spring_path"
+                    }
+                },
+                {
+                    "title": "Stark Mountain",
+                    "content": {
+                        "type": "layout",
+                        "key": "stark"
+                    }
+                },
+                {
+                    "title": "Sunyshore",
+                    "content": {
+                        "type": "layout",
+                        "key": "sunyshore"
+                    }
+                },
+                {
+                    "title": "Survival Area",
+                    "content": {
+                        "type": "layout",
+                        "key": "survival_area"
+                    }
+                },
+                {
+                    "title": "Valley Windworks",
+                    "content": {
+                        "type": "layout",
+                        "key": "valley_windworks"
+                    }
+                },
+                {
+                    "title": "Valor Lakefront + 213",
+                    "content": {
+                        "type": "layout",
+                        "key": "valor_lakefront"
+                    }
+                },
+                {
+                    "title": "Veilstone",
+                    "content": {
+                        "type": "layout",
+                        "key": "veilstone"
+                    }
+                },
+                {
+                    "title": "Verity Lakefront",
+                    "content": {
+                        "type": "layout",
+                        "key": "verity_lakefront"
+                    }
+                },
+                {
+                    "title": "Victory Road",
+                    "content": {
+                        "type": "layout",
+                        "key": "victory_road"
+                    }
+                },
+                {
+                    "title": "203",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_203"
+                    }
+                },
+                {
+                    "title": "204",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_204"
+                    }
+                },
+                {
+                    "title": "205",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_205"
+                    }
+                },
+                {
+                    "title": "206",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_206"
+                    }
+                },
+                {
+                    "title": "207",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_207"
+                    }
+                },
+                {
+                    "title": "208",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_208"
+                    }
+                },
+                {
+                    "title": "209",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_209"
+                    }
+                },
+                {
+                    "title": "210",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_210"
+                    }
+                },
+                {
+                    "title": "211",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_211"
+                    }
+                },
+                {
+                    "title": "212",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_212"
+                    }
+                },
+                {
+                    "title": "214",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_214"
+                    }
+                },
+                {
+                    "title": "215",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_215"
+                    }
+                },
+                {
+                    "title": "216",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_216"
+                    }
+                },
+                {
+                    "title": "217",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_217"
+                    }
+                },
+                {
+                    "title": "221",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_221"
+                    }
+                },
+                {
+                    "title": "222",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_222"
+                    }
+                },
+                {
+                    "title": "225",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_225"
+                    }
+                },
+                {
+                    "title": "226",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_226"
+                    }
+                },
+                {
+                    "title": "227",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_227"
+                    }
+                },
+                {
+                    "title": "228",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_228"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1,2",
+                "rows": [
+                    [
+						"gym1",
+						"gym2",
+                        "gym3",
+						"gym4",
+                        "gym5",
+                        "gym6",
+						"gym7",
+                        "gym8"
+                    ],
+					[
+						"e41",
+						"e42",
+						"e43",
+						"e44",
+						"champ",
+                        "",
+						"",
+						""
+                    ],
+					[
+						"hm1",
+						"hm2",
+						"hm3",
+						"hm4",
+						"hm5",
+                        "hm6",
+						"hm7",
+						"hm8"
+                    ]
+                ]
+            }
+        ]
+    }
+}

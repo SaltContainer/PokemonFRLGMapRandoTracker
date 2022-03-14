@@ -1,0 +1,236 @@
+[
+    {
+        "name": "First Gym",
+        "type": "toggle",
+        "img": "images/badges/coal_badge.png",
+        "codes": "gym1"
+    },
+	{
+        "name": "Second Gym",
+        "type": "toggle",
+        "img": "images/badges/forest_badge.png",
+        "codes": "gym2"
+    },
+	{
+        "name": "Third Gym",
+        "type": "toggle",
+        "img": "images/badges/cobble_badge.png",
+        "codes": "gym3"
+    },
+	{
+        "name": "Fourth Gym",
+        "type": "toggle",
+        "img": "images/badges/fen_badge.png",
+        "codes": "gym4"
+    },
+	{
+        "name": "Fifth Gym",
+        "type": "toggle",
+        "img": "images/badges/relic_badge.png",
+        "codes": "gym5"
+    },
+	{
+        "name": "Sixth Gym",
+        "type": "toggle",
+        "img": "images/badges/mine_badge.png",
+        "codes": "gym6"
+    },
+	{
+        "name": "Seventh Gym",
+        "type": "toggle",
+        "img": "images/badges/icicle_badge.png",
+        "codes": "gym7"
+    },
+	{
+        "name": "Eighth Gym",
+        "type": "toggle",
+        "img": "images/badges/beacon_badge.png",
+        "codes": "gym8"
+    },
+	{
+        "name": "E4 Aaron",
+        "type": "toggle",
+        "img": "images/gyms/e4_bug.png",
+        "codes": "e41"
+    },
+	{
+        "name": "E4 Bertha",
+        "type": "toggle",
+        "img": "images/gyms/e4_ground.png",
+        "codes": "e42"
+    },
+	{
+        "name": "E4 Flint",
+        "type": "toggle",
+        "img": "images/gyms/e4_fire.png",
+        "codes": "e43"
+    },
+	{
+        "name": "E4 Lucian",
+        "type": "toggle",
+        "img": "images/gyms/e4_psychic.png",
+        "codes": "e44"
+    },
+	{
+        "name": "Champion Cynthia",
+        "type": "toggle",
+        "img": "images/gyms/champ.png",
+        "codes": "champ"
+    },
+    {
+        "name": "Cut Needed",
+        "type": "toggle",
+        "img": "images/hms/cut.png",
+        "codes": "cut"
+    },
+	{
+        "name": "Rock Smash Needed",
+        "type": "toggle",
+        "img": "images/hms/rock_smash.png",
+        "codes": "rock_smash"
+    },
+	{
+        "name": "Strength Needed",
+        "type": "toggle",
+        "img": "images/hms/strength.png",
+        "codes": "strength"
+    },
+	{
+        "name": "Surf Needed",
+        "type": "toggle",
+        "img": "images/hms/surf.png",
+        "codes": "surf"
+    },
+	{
+        "name": "Waterfall Needed",
+        "type": "toggle",
+        "img": "images/hms/waterfall.png",
+        "codes": "waterfall"
+    },
+	{
+        "name": "Rock Climb Needed",
+        "type": "toggle",
+        "img": "images/hms/rock_climb.png",
+        "codes": "rock_climb"
+    },
+	{
+        "name": "One Way",
+        "type": "toggle",
+        "img": "images/other/one_way.png",
+        "codes": "one_way"
+    },
+	{
+        "name": "Dead End",
+        "type": "toggle",
+        "img": "images/other/dead_end.png",
+        "codes": "dead_end"
+    },
+	{
+        "name": "Event Block",
+        "type": "toggle",
+        "img": "images/other/event.png",
+        "codes": "event"
+    },
+	{
+        "name": "Trainer Block",
+        "type": "toggle",
+        "img": "images/other/trainer.png",
+        "codes": "trainer"
+    },
+    {
+        "name": "HM01 - Cut",
+        "type": "toggle",
+        "img": "images/hms/hm1.png",
+        "codes": "hm1"
+    },
+    {
+        "name": "HM02 - Fly",
+        "type": "toggle",
+        "img": "images/hms/hm2.png",
+        "codes": "hm2"
+    },
+    {
+        "name": "HM03 - Surf",
+        "type": "toggle",
+        "img": "images/hms/hm3.png",
+        "codes": "hm3"
+    },
+    {
+        "name": "HM04 - Strength",
+        "type": "toggle",
+        "img": "images/hms/hm4.png",
+        "codes": "hm4"
+    },
+    {
+        "name": "HM05 - Defog",
+        "type": "toggle",
+        "img": "images/hms/hm5.png",
+        "codes": "hm5"
+    },
+    {
+        "name": "HM06 - Rock Smash",
+        "type": "toggle",
+        "img": "images/hms/hm6.png",
+        "codes": "hm6"
+    },
+    {
+        "name": "HM07 - Waterfall",
+        "type": "toggle",
+        "img": "images/hms/hm7.png",
+        "codes": "hm7"
+    },
+    {
+        "name": "HM08 - Rock Climb",
+        "type": "toggle",
+        "img": "images/hms/hm8.png",
+        "codes": "hm8"
+    },
+	{
+        "name": "Custom 1",
+        "type": "toggle",
+        "img": "images/types/normal.png",
+        "codes": "custom1"
+    },
+	{
+        "name": "Custom 2",
+        "type": "toggle",
+        "img": "images/types/water.png",
+        "codes": "custom2"
+    },
+	{
+        "name": "Custom 3",
+        "type": "toggle",
+        "img": "images/types/grass.png",
+        "codes": "custom3"
+    },
+	{
+        "name": "Custom 4",
+        "type": "toggle",
+        "img": "images/types/electric.png",
+        "codes": "custom4"
+    },
+    {
+        "name": "Custom 5",
+        "type": "toggle",
+        "img": "images/types/poison.png",
+        "codes": "custom5"
+    },
+	{
+        "name": "Custom 6",
+        "type": "toggle",
+        "img": "images/types/fairy.png",
+        "codes": "custom6"
+    },
+	{
+        "name": "Custom 7",
+        "type": "toggle",
+        "img": "images/types/steel.png",
+        "codes": "custom7"
+    },
+	{
+        "name": "Custom 8",
+        "type": "toggle",
+        "img": "images/types/dragon.png",
+        "codes": "custom8"
+    }
+]

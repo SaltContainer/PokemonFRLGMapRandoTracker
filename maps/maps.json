@@ -1,0 +1,338 @@
+﻿[
+    {
+        "name": "acuity_lakefront",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/acuity_lakefront.png"
+    },
+	{
+        "name": "canalave",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/canalave.png"
+    },
+    {
+        "name": "celestic",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/celestic.png"
+    },
+	{
+        "name": "coronet",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/coronet.png"
+    },
+	{
+        "name": "coronet_peak",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/coronet_peak.png"
+    },
+	{
+        "name": "dept",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/dept.png"
+    },
+	{
+        "name": "eterna",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/eterna.png"
+    },
+	{
+        "name": "eterna_galactic",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/eterna_galactic.png"
+    },
+	{
+        "name": "fight_area",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/fight_area.png"
+    },
+	{
+        "name": "floaroma",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/floaroma.png"
+    },
+	{
+        "name": "eterna_forest",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/eterna_forest.png"
+    },
+    {
+        "name": "galactic_hq",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/galactic_hq.png"
+    },
+    {
+        "name": "hearthome",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/hearthome.png"
+    },
+    {
+        "name": "iron_island",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/iron_island.png"
+    },
+    {
+        "name": "fuego_ironworks",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/fuego_ironworks.png"
+    },
+    {
+        "name": "jubilife",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/jubilife.png"
+    },
+    {
+        "name": "jubilife_tv",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/jubilife_tv.png"
+    },
+    {
+        "name": "league",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/league.png"
+    },
+    {
+        "name": "mansion",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/mansion.png"
+    },
+    {
+        "name": "floaroma_meadow",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/floaroma_meadow.png"
+    },
+    {
+        "name": "old_chateau",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/old_chateau.png"
+    },
+    {
+        "name": "oreburgh",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/oreburgh.png"
+    },
+    {
+        "name": "oreburgh_gate",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/oreburgh_gate.png"
+    },
+    {
+        "name": "pastoria",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/pastoria.png"
+    },
+    {
+        "name": "poketch",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/poketch.png"
+    },
+    {
+        "name": "resort_area",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/resort_area.png"
+    },
+    {
+        "name": "solaceon_ruins",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/solaceon_ruins.png"
+    },
+    {
+        "name": "spring_path",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/spring_path.png"
+    },
+    {
+        "name": "stark",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/stark.png"
+    },
+    {
+        "name": "sunyshore",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/sunyshore.png"
+    },
+    {
+        "name": "survival_area",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/survival_area.png"
+    },
+    {
+        "name": "valor_lakefront",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/valor_lakefront.png"
+    },
+    {
+        "name": "veilstone",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/veilstone.png"
+    },
+    {
+        "name": "verity_lakefront",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/verity_lakefront.png"
+    },
+    {
+        "name": "victory_road",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/victory_road.png"
+    },
+    {
+        "name": "valley_windworks",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/valley_windworks.png"
+    },
+    {
+        "name": "route_203",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_203.png"
+    },
+    {
+        "name": "route_204",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_204.png"
+    },
+    {
+        "name": "route_205",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_205.png"
+    },
+    {
+        "name": "route_206",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_206.png"
+    },
+    {
+        "name": "route_207",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_207.png"
+    },
+    {
+        "name": "route_208",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_208.png"
+    },
+    {
+        "name": "route_209",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_209.png"
+    },
+    {
+        "name": "route_210",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_210.png"
+    },
+    {
+        "name": "route_211",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_211.png"
+    },
+    {
+        "name": "route_212",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_212.png"
+    },
+    {
+        "name": "route_214",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_214.png"
+    },
+    {
+        "name": "route_215",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_215.png"
+    },
+    {
+        "name": "route_216",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_216.png"
+    },
+    {
+        "name": "route_217",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_217.png"
+    },
+    {
+        "name": "route_221",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_221.png"
+    },
+    {
+        "name": "route_222",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_222.png"
+    },
+    {
+        "name": "route_225",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_225.png"
+    },
+    {
+        "name": "route_226",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_226.png"
+    },
+    {
+        "name": "route_227",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_227.png"
+    },
+    {
+        "name": "route_228",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/route_228.png"
+    }
+]

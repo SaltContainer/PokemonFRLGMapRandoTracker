@@ -1,0 +1,13 @@
+﻿{
+    "name": "Pokémon Fire Red/Leaf Green Map Randomizer Tracker",
+    "game_name": "Pokémon Fire Red/Leaf Green",
+    "platform": "gba",
+    "package_version": "0.3",
+    "package_uid": "pokemon_frlg_map_randomizer_saltcontainer",
+    "author": "SaltContainer",
+    "variants": {
+        "itemrando": {
+            "display_name": "Map Randomizer"
+        }
+    }
+}

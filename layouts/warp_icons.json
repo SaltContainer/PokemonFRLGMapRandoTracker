@@ -1,0 +1,128 @@
+{
+    "warp_icons": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "container",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "1,2",
+                    "rows": [
+                        [
+                            "doorslot_unknown", "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer", "doorslot_center", "doorslot_mart", "doorslot_bike"
+                        ],
+                        [
+                            "doorslot_coal_badge", "doorslot_forest_badge", "doorslot_cobble_badge", "doorslot_fen_badge", "doorslot_relic_badge", "doorslot_mine_badge", "doorslot_icicle_badge", "doorslot_beacon_badge"
+                        ],
+                        [
+                            "doorslot_e4_bug", "doorslot_e4_ground", "doorslot_e4_fire", "doorslot_e4_psychic", "doorslot_champ"
+                        ],
+                        [
+                            "doorslot_rock_smash", "doorslot_cut", "doorslot_strength", "doorslot_surf", "doorslot_waterfall", "doorslot_rock_climb"
+                        ],
+                        [
+                            "doorslot_hm1", "doorslot_hm2", "doorslot_hm3", "doorslot_hm4", "doorslot_hm5", "doorslot_hm6", "doorslot_hm7", "doorslot_hm8"
+                        ],
+                        [
+                            "doorslot_custom1", "doorslot_custom2", "doorslot_custom3", "doorslot_custom4", "doorslot_custom5", "doorslot_custom6", "doorslot_custom7", "doorslot_custom8"
+                        ],
+                        [
+                            "doorslot_1", "doorslot_2", "doorslot_3", "doorslot_4", "doorslot_5", "doorslot_6", "doorslot_7", "doorslot_8"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "container",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "center",
+                    "item_margin": "1,2",
+                    "item_height": 20,
+                    "item_width": 86,
+                    "rows": [
+                        [
+                            "doorslot_acuity_lakefront", "doorslot_mansion", "doorslot_canalave"
+                        ],
+                        [
+                            "doorslot_celestic", "doorslot_dept", "doorslot_eterna"
+                        ],
+                        [
+                            "doorslot_eterna_forest", "doorslot_eterna_galactic", "doorslot_fight_area"
+                        ],
+                        [
+                            "doorslot_floaroma_meadow", "doorslot_floaroma", "doorslot_fuego_ironworks"
+                        ],
+                        [
+                            "doorslot_galactic_hq", "doorslot_hearthome", "doorslot_iron_island"
+                        ],
+                        [
+                            "doorslot_jubilife", "doorslot_jubilife_tv", "doorslot_coronet"
+                        ],
+                        [
+                            "doorslot_coronet_peak", "doorslot_old_chateau", "doorslot_oreburgh"
+                        ],
+                        [
+                            "doorslot_oreburgh_gate", "doorslot_pastoria", "doorslot_league"
+                        ],
+                        [
+                            "doorslot_poketch", "doorslot_resort_area", "doorslot_sandgem"
+                        ],
+                        [
+                            "doorslot_snowpoint", "doorslot_solaceon_ruins", "doorslot_solaceon"
+                        ],
+                        [
+                            "doorslot_spring_path", "doorslot_stark", "doorslot_sunyshore"
+                        ],
+                        [
+                            "doorslot_survival_area", "doorslot_valley_windworks", "doorslot_valor_lakefront"
+                        ],
+                        [
+                            "doorslot_veilstone", "doorslot_verity_lakefront", "doorslot_victory_road"
+                        ],
+                        [
+                            "doorslot_route_203", "doorslot_route_204", "doorslot_route_205"
+                        ],
+                        [
+                            "doorslot_route_206", "doorslot_route_207", "doorslot_route_208"
+                        ],
+                        [
+                            "doorslot_route_209", "doorslot_route_210", "doorslot_route_211"
+                        ],
+                        [
+                            "doorslot_route_212", "doorslot_route_214", "doorslot_route_215"
+                        ],
+                        [
+                            "doorslot_route_216", "doorslot_route_217", "doorslot_route_221"
+                        ],
+                        [
+                            "doorslot_route_222", "doorslot_route_225", "doorslot_route_226"
+                        ],
+                        [
+                            "doorslot_route_227", "doorslot_route_228"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "dock",
+                "dock": "bottom",
+                "v_alignment": "bottom",
+                "width": 285,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Progress",
+                        "dock": "left",
+                        "content": {
+                            "type": "layout",
+                            "key": "tracker_items"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
