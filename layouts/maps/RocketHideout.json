@@ -1,0 +1,111 @@
+{
+	"rocket_hideout": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_rocket_hideout_0",
+						"canvas_left": 170,
+						"canvas_top": 15,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_rocket_hideout_0",
+						"canvas_left": 117,
+						"canvas_top": 15,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_rocket_hideout_1",
+						"canvas_left": 296,
+						"canvas_top": 28,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_rocket_hideout_1",
+						"canvas_left": 243,
+						"canvas_top": 28,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_rocket_hideout_2",
+						"canvas_left": 854,
+						"canvas_top": 182,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_rocket_hideout_2",
+						"canvas_left": 801,
+						"canvas_top": 182,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_rocket_hideout_3",
+						"canvas_left": 808,
+						"canvas_top": 26,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_rocket_hideout_3",
+						"canvas_left": 755,
+						"canvas_top": 26,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_rocket_hideout_4",
+						"canvas_left": 922,
+						"canvas_top": 17,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_rocket_hideout_4",
+						"canvas_left": 869,
+						"canvas_top": 17,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "rocket_hideout",
+						"canvas_left": 12,
+						"canvas_top": 0,
+						"width": 976,
+						"height": 455,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

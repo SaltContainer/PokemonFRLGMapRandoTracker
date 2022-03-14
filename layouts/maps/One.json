@@ -1,0 +1,129 @@
+{
+	"one": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_one_0",
+						"canvas_left": 373,
+						"canvas_top": 274,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_0",
+						"canvas_left": 320,
+						"canvas_top": 274,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_one_1",
+						"canvas_left": 324,
+						"canvas_top": 148,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_1",
+						"canvas_left": 271,
+						"canvas_top": 148,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_one_2",
+						"canvas_left": 403,
+						"canvas_top": 39,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_2",
+						"canvas_left": 350,
+						"canvas_top": 39,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_one_3",
+						"canvas_left": 500,
+						"canvas_top": 111,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_3",
+						"canvas_left": 447,
+						"canvas_top": 111,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_one_4",
+						"canvas_left": 683,
+						"canvas_top": 70,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_4",
+						"canvas_left": 630,
+						"canvas_top": 70,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_one_5",
+						"canvas_left": 716,
+						"canvas_top": 214,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_one_5",
+						"canvas_left": 663,
+						"canvas_top": 214,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "one",
+						"canvas_left": 190,
+						"canvas_top": 0,
+						"width": 620,
+						"height": 320,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

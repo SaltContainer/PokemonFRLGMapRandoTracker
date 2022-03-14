@@ -1,0 +1,453 @@
+{
+	"dotted_hole": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_0",
+						"canvas_left": 371,
+						"canvas_top": 141,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_0",
+						"canvas_left": 318,
+						"canvas_top": 141,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_1",
+						"canvas_left": 482,
+						"canvas_top": 61,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_1",
+						"canvas_left": 429,
+						"canvas_top": 61,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_2",
+						"canvas_left": 370,
+						"canvas_top": 59,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_2",
+						"canvas_left": 317,
+						"canvas_top": 59,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_3",
+						"canvas_left": 372,
+						"canvas_top": 107,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_3",
+						"canvas_left": 319,
+						"canvas_top": 107,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_4",
+						"canvas_left": 371,
+						"canvas_top": 286,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_4",
+						"canvas_left": 318,
+						"canvas_top": 286,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_5",
+						"canvas_left": 370,
+						"canvas_top": 195,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_5",
+						"canvas_left": 317,
+						"canvas_top": 195,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_6",
+						"canvas_left": 290,
+						"canvas_top": 261,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_6",
+						"canvas_left": 237,
+						"canvas_top": 261,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_7",
+						"canvas_left": 371,
+						"canvas_top": 327,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_7",
+						"canvas_left": 318,
+						"canvas_top": 327,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_8",
+						"canvas_left": 451,
+						"canvas_top": 243,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_8",
+						"canvas_left": 398,
+						"canvas_top": 243,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_9",
+						"canvas_left": 516,
+						"canvas_top": 278,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_9",
+						"canvas_left": 463,
+						"canvas_top": 278,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_10",
+						"canvas_left": 592,
+						"canvas_top": 198,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_10",
+						"canvas_left": 539,
+						"canvas_top": 198,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_11",
+						"canvas_left": 596,
+						"canvas_top": 326,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_11",
+						"canvas_left": 543,
+						"canvas_top": 326,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_12",
+						"canvas_left": 674,
+						"canvas_top": 261,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_12",
+						"canvas_left": 621,
+						"canvas_top": 261,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_13",
+						"canvas_left": 594,
+						"canvas_top": 288,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_13",
+						"canvas_left": 541,
+						"canvas_top": 288,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_14",
+						"canvas_left": 290,
+						"canvas_top": 455,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_14",
+						"canvas_left": 237,
+						"canvas_top": 455,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_15",
+						"canvas_left": 370,
+						"canvas_top": 388,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_15",
+						"canvas_left": 317,
+						"canvas_top": 388,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_16",
+						"canvas_left": 368,
+						"canvas_top": 519,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_16",
+						"canvas_left": 315,
+						"canvas_top": 519,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_17",
+						"canvas_left": 451,
+						"canvas_top": 441,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_17",
+						"canvas_left": 398,
+						"canvas_top": 441,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_18",
+						"canvas_left": 513,
+						"canvas_top": 472,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_18",
+						"canvas_left": 460,
+						"canvas_top": 472,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_19",
+						"canvas_left": 594,
+						"canvas_top": 391,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_19",
+						"canvas_left": 541,
+						"canvas_top": 391,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_20",
+						"canvas_left": 594,
+						"canvas_top": 517,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_20",
+						"canvas_left": 541,
+						"canvas_top": 517,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_21",
+						"canvas_left": 674,
+						"canvas_top": 455,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_21",
+						"canvas_left": 621,
+						"canvas_top": 455,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_22",
+						"canvas_left": 371,
+						"canvas_top": 477,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_22",
+						"canvas_left": 318,
+						"canvas_top": 477,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dotted_hole_23",
+						"canvas_left": 594,
+						"canvas_top": 476,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dotted_hole_23",
+						"canvas_left": 541,
+						"canvas_top": 476,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "dotted_hole",
+						"canvas_left": 284,
+						"canvas_top": 0,
+						"width": 432,
+						"height": 560,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

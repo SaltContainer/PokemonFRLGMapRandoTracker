@@ -1,0 +1,93 @@
+{
+	"route_10": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_route_10_0",
+						"canvas_left": 415,
+						"canvas_top": 96,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_10_0",
+						"canvas_left": 362,
+						"canvas_top": 96,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_10_1",
+						"canvas_left": 508,
+						"canvas_top": 125,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_10_1",
+						"canvas_left": 455,
+						"canvas_top": 125,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_10_2",
+						"canvas_left": 409,
+						"canvas_top": 334,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_10_2",
+						"canvas_left": 356,
+						"canvas_top": 334,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_10_3",
+						"canvas_left": 427,
+						"canvas_top": 559,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_10_3",
+						"canvas_left": 374,
+						"canvas_top": 559,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "route_10",
+						"canvas_left": 308,
+						"canvas_top": 0,
+						"width": 384,
+						"height": 694,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

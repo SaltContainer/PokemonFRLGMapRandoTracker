@@ -1,0 +1,219 @@
+{
+	"cerulean": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_cerulean_0",
+						"canvas_left": 322,
+						"canvas_top": 417,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_0",
+						"canvas_left": 269,
+						"canvas_top": 417,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_1",
+						"canvas_left": 475,
+						"canvas_top": 419,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_1",
+						"canvas_left": 422,
+						"canvas_top": 419,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_2",
+						"canvas_left": 573,
+						"canvas_top": 421,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_2",
+						"canvas_left": 520,
+						"canvas_top": 421,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_3",
+						"canvas_left": 604,
+						"canvas_top": 309,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_3",
+						"canvas_left": 551,
+						"canvas_top": 309,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_4",
+						"canvas_left": 459,
+						"canvas_top": 277,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_4",
+						"canvas_left": 406,
+						"canvas_top": 277,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_5",
+						"canvas_left": 346,
+						"canvas_top": 243,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_5",
+						"canvas_left": 293,
+						"canvas_top": 243,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_6",
+						"canvas_left": 121,
+						"canvas_top": 165,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_6",
+						"canvas_left": 68,
+						"canvas_top": 165,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_7",
+						"canvas_left": 267,
+						"canvas_top": 150,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_7",
+						"canvas_left": 214,
+						"canvas_top": 150,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_8",
+						"canvas_left": 378,
+						"canvas_top": 147,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_8",
+						"canvas_left": 325,
+						"canvas_top": 147,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_9",
+						"canvas_left": 588,
+						"canvas_top": 152,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_9",
+						"canvas_left": 535,
+						"canvas_top": 152,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_10",
+						"canvas_left": 605,
+						"canvas_top": 102,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_10",
+						"canvas_left": 552,
+						"canvas_top": 102,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "cerulean",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

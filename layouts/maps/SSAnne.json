@@ -1,0 +1,489 @@
+{
+	"ss_anne": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_ss_anne_0",
+						"canvas_left": 524,
+						"canvas_top": 8,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_0",
+						"canvas_left": 471,
+						"canvas_top": 8,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_1",
+						"canvas_left": 241,
+						"canvas_top": 94,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_1",
+						"canvas_left": 188,
+						"canvas_top": 94,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_2",
+						"canvas_left": 246,
+						"canvas_top": 280,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_2",
+						"canvas_left": 193,
+						"canvas_top": 280,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_3",
+						"canvas_left": 659,
+						"canvas_top": 268,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_3",
+						"canvas_left": 606,
+						"canvas_top": 268,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_4",
+						"canvas_left": 298,
+						"canvas_top": 140,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_4",
+						"canvas_left": 245,
+						"canvas_top": 140,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_5",
+						"canvas_left": 346,
+						"canvas_top": 178,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_5",
+						"canvas_left": 293,
+						"canvas_top": 178,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_6",
+						"canvas_left": 395,
+						"canvas_top": 140,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_6",
+						"canvas_left": 342,
+						"canvas_top": 140,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_7",
+						"canvas_left": 443,
+						"canvas_top": 182,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_7",
+						"canvas_left": 390,
+						"canvas_top": 182,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_8",
+						"canvas_left": 492,
+						"canvas_top": 136,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_8",
+						"canvas_left": 439,
+						"canvas_top": 136,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_9",
+						"canvas_left": 537,
+						"canvas_top": 183,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_9",
+						"canvas_left": 484,
+						"canvas_top": 183,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_10",
+						"canvas_left": 589,
+						"canvas_top": 135,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_10",
+						"canvas_left": 536,
+						"canvas_top": 135,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_11",
+						"canvas_left": 274,
+						"canvas_top": 363,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_11",
+						"canvas_left": 221,
+						"canvas_top": 363,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_12",
+						"canvas_left": 240,
+						"canvas_top": 563,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_12",
+						"canvas_left": 187,
+						"canvas_top": 563,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_13",
+						"canvas_left": 714,
+						"canvas_top": 358,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_13",
+						"canvas_left": 661,
+						"canvas_top": 358,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_14",
+						"canvas_left": 249,
+						"canvas_top": 614,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_14",
+						"canvas_left": 196,
+						"canvas_top": 614,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_15",
+						"canvas_left": 314,
+						"canvas_top": 665,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_15",
+						"canvas_left": 261,
+						"canvas_top": 665,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_16",
+						"canvas_left": 376,
+						"canvas_top": 614,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_16",
+						"canvas_left": 323,
+						"canvas_top": 614,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_17",
+						"canvas_left": 443,
+						"canvas_top": 670,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_17",
+						"canvas_left": 390,
+						"canvas_top": 670,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_18",
+						"canvas_left": 506,
+						"canvas_top": 618,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_18",
+						"canvas_left": 453,
+						"canvas_top": 618,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_19",
+						"canvas_left": 560,
+						"canvas_top": 685,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_19",
+						"canvas_left": 507,
+						"canvas_top": 685,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_20",
+						"canvas_left": 313,
+						"canvas_top": 468,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_20",
+						"canvas_left": 260,
+						"canvas_top": 468,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_21",
+						"canvas_left": 379,
+						"canvas_top": 525,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_21",
+						"canvas_left": 326,
+						"canvas_top": 525,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_22",
+						"canvas_left": 439,
+						"canvas_top": 463,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_22",
+						"canvas_left": 386,
+						"canvas_top": 463,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_23",
+						"canvas_left": 506,
+						"canvas_top": 527,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_23",
+						"canvas_left": 453,
+						"canvas_top": 527,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_24",
+						"canvas_left": 569,
+						"canvas_top": 460,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_24",
+						"canvas_left": 516,
+						"canvas_top": 460,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_ss_anne_25",
+						"canvas_left": 634,
+						"canvas_top": 525,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_ss_anne_25",
+						"canvas_left": 581,
+						"canvas_top": 525,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "ss_anne",
+						"canvas_left": 228,
+						"canvas_top": 0,
+						"width": 544,
+						"height": 736,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

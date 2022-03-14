@@ -1,0 +1,273 @@
+{
+	"seven": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_seven_0",
+						"canvas_left": 176,
+						"canvas_top": 74,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_0",
+						"canvas_left": 123,
+						"canvas_top": 74,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_1",
+						"canvas_left": 336,
+						"canvas_top": 111,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_1",
+						"canvas_left": 283,
+						"canvas_top": 111,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_2",
+						"canvas_left": 455,
+						"canvas_top": 117,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_2",
+						"canvas_left": 402,
+						"canvas_top": 117,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_3",
+						"canvas_left": 458,
+						"canvas_top": 17,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_3",
+						"canvas_left": 405,
+						"canvas_top": 17,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_4",
+						"canvas_left": 518,
+						"canvas_top": 199,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_4",
+						"canvas_left": 465,
+						"canvas_top": 199,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_5",
+						"canvas_left": 752,
+						"canvas_top": 54,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_5",
+						"canvas_left": 699,
+						"canvas_top": 54,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_6",
+						"canvas_left": 770,
+						"canvas_top": 192,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_6",
+						"canvas_left": 717,
+						"canvas_top": 192,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_7",
+						"canvas_left": 218,
+						"canvas_top": 382,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_7",
+						"canvas_left": 165,
+						"canvas_top": 382,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_8",
+						"canvas_left": 234,
+						"canvas_top": 523,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_8",
+						"canvas_left": 181,
+						"canvas_top": 523,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_9",
+						"canvas_left": 552,
+						"canvas_top": 426,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_9",
+						"canvas_left": 499,
+						"canvas_top": 426,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_10",
+						"canvas_left": 749,
+						"canvas_top": 460,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_10",
+						"canvas_left": 696,
+						"canvas_top": 460,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_11",
+						"canvas_left": 231,
+						"canvas_top": 685,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_11",
+						"canvas_left": 178,
+						"canvas_top": 685,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_12",
+						"canvas_left": 473,
+						"canvas_top": 716,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_12",
+						"canvas_left": 420,
+						"canvas_top": 716,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_seven_13",
+						"canvas_left": 744,
+						"canvas_top": 715,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_seven_13",
+						"canvas_left": 691,
+						"canvas_top": 715,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "seven",
+						"canvas_left": 131,
+						"canvas_top": 0,
+						"width": 738,
+						"height": 866,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

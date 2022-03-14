@@ -1,0 +1,111 @@
+{
+	"route_15": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_route_15_0",
+						"canvas_left": 301,
+						"canvas_top": 80,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_15_0",
+						"canvas_left": 248,
+						"canvas_top": 80,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_15_1",
+						"canvas_left": 431,
+						"canvas_top": 100,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_15_1",
+						"canvas_left": 378,
+						"canvas_top": 100,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_15_2",
+						"canvas_left": 520,
+						"canvas_top": 69,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_15_2",
+						"canvas_left": 467,
+						"canvas_top": 69,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_15_3",
+						"canvas_left": 691,
+						"canvas_top": 96,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_15_3",
+						"canvas_left": 638,
+						"canvas_top": 96,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_15_4",
+						"canvas_left": 656,
+						"canvas_top": 149,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_15_4",
+						"canvas_left": 603,
+						"canvas_top": 149,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "route_15",
+						"canvas_left": 272,
+						"canvas_top": 0,
+						"width": 455,
+						"height": 192,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

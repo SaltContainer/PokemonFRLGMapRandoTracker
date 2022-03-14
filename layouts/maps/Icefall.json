@@ -1,0 +1,237 @@
+{
+	"icefall": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_icefall_0",
+						"canvas_left": 683,
+						"canvas_top": 384,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_0",
+						"canvas_left": 630,
+						"canvas_top": 384,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_1",
+						"canvas_left": 571,
+						"canvas_top": 221,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_1",
+						"canvas_left": 518,
+						"canvas_top": 221,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_2",
+						"canvas_left": 555,
+						"canvas_top": 37,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_2",
+						"canvas_left": 502,
+						"canvas_top": 37,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_3",
+						"canvas_left": 346,
+						"canvas_top": 583,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_3",
+						"canvas_left": 293,
+						"canvas_top": 583,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_4",
+						"canvas_left": 298,
+						"canvas_top": 518,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_4",
+						"canvas_left": 245,
+						"canvas_top": 518,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_5",
+						"canvas_left": 298,
+						"canvas_top": 377,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_5",
+						"canvas_left": 245,
+						"canvas_top": 377,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_6",
+						"canvas_left": 235,
+						"canvas_top": 261,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_6",
+						"canvas_left": 182,
+						"canvas_top": 261,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_7",
+						"canvas_left": 218,
+						"canvas_top": 123,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_7",
+						"canvas_left": 165,
+						"canvas_top": 123,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_8",
+						"canvas_left": 234,
+						"canvas_top": 65,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_8",
+						"canvas_left": 181,
+						"canvas_top": 65,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_9",
+						"canvas_left": 429,
+						"canvas_top": 246,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_9",
+						"canvas_left": 376,
+						"canvas_top": 246,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_10",
+						"canvas_left": 379,
+						"canvas_top": 180,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_10",
+						"canvas_left": 326,
+						"canvas_top": 180,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_icefall_11",
+						"canvas_left": 380,
+						"canvas_top": 36,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_icefall_11",
+						"canvas_left": 327,
+						"canvas_top": 36,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "icefall",
+						"canvas_left": 196,
+						"canvas_top": 0,
+						"width": 608,
+						"height": 656,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

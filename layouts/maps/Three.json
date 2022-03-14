@@ -1,0 +1,201 @@
+{
+	"three": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_three_0",
+						"canvas_left": 278,
+						"canvas_top": 65,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_0",
+						"canvas_left": 225,
+						"canvas_top": 65,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_1",
+						"canvas_left": 290,
+						"canvas_top": 515,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_1",
+						"canvas_left": 237,
+						"canvas_top": 515,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_2",
+						"canvas_left": 353,
+						"canvas_top": 353,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_2",
+						"canvas_left": 300,
+						"canvas_top": 353,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_3",
+						"canvas_left": 482,
+						"canvas_top": 465,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_3",
+						"canvas_left": 429,
+						"canvas_top": 465,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_4",
+						"canvas_left": 647,
+						"canvas_top": 398,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_4",
+						"canvas_left": 594,
+						"canvas_top": 398,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_5",
+						"canvas_left": 645,
+						"canvas_top": 276,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_5",
+						"canvas_left": 592,
+						"canvas_top": 276,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_6",
+						"canvas_left": 614,
+						"canvas_top": 157,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_6",
+						"canvas_left": 561,
+						"canvas_top": 157,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_7",
+						"canvas_left": 706,
+						"canvas_top": 157,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_7",
+						"canvas_left": 653,
+						"canvas_top": 157,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_8",
+						"canvas_left": 628,
+						"canvas_top": 63,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_8",
+						"canvas_left": 575,
+						"canvas_top": 63,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_three_9",
+						"canvas_left": 491,
+						"canvas_top": 60,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_three_9",
+						"canvas_left": 438,
+						"canvas_top": 60,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "three",
+						"canvas_left": 187,
+						"canvas_top": 0,
+						"width": 625,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

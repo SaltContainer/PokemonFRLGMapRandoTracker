@@ -1,0 +1,219 @@
+{
+	"celadon": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_celadon_0",
+						"canvas_left": 181,
+						"canvas_top": 195,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_0",
+						"canvas_left": 128,
+						"canvas_top": 195,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_1",
+						"canvas_left": 258,
+						"canvas_top": 196,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_1",
+						"canvas_left": 205,
+						"canvas_top": 196,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_2",
+						"canvas_left": 490,
+						"canvas_top": 147,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_2",
+						"canvas_left": 437,
+						"canvas_top": 147,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_3",
+						"canvas_left": 491,
+						"canvas_top": 42,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_3",
+						"canvas_left": 438,
+						"canvas_top": 42,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_4",
+						"canvas_left": 778,
+						"canvas_top": 146,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_4",
+						"canvas_left": 725,
+						"canvas_top": 146,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_5",
+						"canvas_left": 188,
+						"canvas_top": 454,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_5",
+						"canvas_left": 135,
+						"canvas_top": 454,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_6",
+						"canvas_left": 552,
+						"canvas_top": 313,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_6",
+						"canvas_left": 499,
+						"canvas_top": 313,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_7",
+						"canvas_left": 635,
+						"canvas_top": 293,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_7",
+						"canvas_left": 582,
+						"canvas_top": 293,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_8",
+						"canvas_left": 601,
+						"canvas_top": 436,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_8",
+						"canvas_left": 548,
+						"canvas_top": 436,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_9",
+						"canvas_left": 668,
+						"canvas_top": 438,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_9",
+						"canvas_left": 615,
+						"canvas_top": 438,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celadon_10",
+						"canvas_left": 795,
+						"canvas_top": 437,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celadon_10",
+						"canvas_left": 742,
+						"canvas_top": 437,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "celadon",
+						"canvas_left": 20,
+						"canvas_top": 0,
+						"width": 960,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

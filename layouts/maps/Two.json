@@ -1,0 +1,111 @@
+{
+	"two": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_two_0",
+						"canvas_left": 265,
+						"canvas_top": 285,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_two_0",
+						"canvas_left": 212,
+						"canvas_top": 285,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_two_1",
+						"canvas_left": 443,
+						"canvas_top": 246,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_two_1",
+						"canvas_left": 390,
+						"canvas_top": 246,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_two_2",
+						"canvas_left": 644,
+						"canvas_top": 285,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_two_2",
+						"canvas_left": 591,
+						"canvas_top": 285,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_two_3",
+						"canvas_left": 738,
+						"canvas_top": 277,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_two_3",
+						"canvas_left": 685,
+						"canvas_top": 277,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_two_4",
+						"canvas_left": 752,
+						"canvas_top": 59,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_two_4",
+						"canvas_left": 699,
+						"canvas_top": 59,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "two",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 491,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"fuchsia": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_fuchsia_0",
+						"canvas_left": 250,
+						"canvas_top": 479,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_0",
+						"canvas_left": 197,
+						"canvas_top": 479,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_1",
+						"canvas_left": 344,
+						"canvas_top": 464,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_1",
+						"canvas_left": 291,
+						"canvas_top": 464,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_2",
+						"canvas_left": 425,
+						"canvas_top": 464,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_2",
+						"canvas_left": 372,
+						"canvas_top": 464,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_3",
+						"canvas_left": 507,
+						"canvas_top": 462,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_3",
+						"canvas_left": 454,
+						"canvas_top": 462,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_4",
+						"canvas_left": 649,
+						"canvas_top": 467,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_4",
+						"canvas_left": 596,
+						"canvas_top": 467,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_5",
+						"canvas_left": 735,
+						"canvas_top": 469,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_5",
+						"canvas_left": 682,
+						"canvas_top": 469,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_6",
+						"canvas_left": 274,
+						"canvas_top": 211,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_6",
+						"canvas_left": 221,
+						"canvas_top": 211,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_7",
+						"canvas_left": 497,
+						"canvas_top": 45,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_7",
+						"canvas_left": 444,
+						"canvas_top": 45,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuchsia_8",
+						"canvas_left": 560,
+						"canvas_top": 227,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuchsia_8",
+						"canvas_left": 507,
+						"canvas_top": 227,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "fuchsia",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

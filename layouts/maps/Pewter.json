@@ -1,0 +1,147 @@
+{
+	"pewter": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_pewter_0",
+						"canvas_left": 267,
+						"canvas_top": 455,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_0",
+						"canvas_left": 214,
+						"canvas_top": 455,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_1",
+						"canvas_left": 381,
+						"canvas_top": 368,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_1",
+						"canvas_left": 328,
+						"canvas_top": 368,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_2",
+						"canvas_left": 550,
+						"canvas_top": 259,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_2",
+						"canvas_left": 497,
+						"canvas_top": 259,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_3",
+						"canvas_left": 345,
+						"canvas_top": 224,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_3",
+						"canvas_left": 292,
+						"canvas_top": 224,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_4",
+						"canvas_left": 648,
+						"canvas_top": 149,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_4",
+						"canvas_left": 595,
+						"canvas_top": 149,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_5",
+						"canvas_left": 376,
+						"canvas_top": 71,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_5",
+						"canvas_left": 323,
+						"canvas_top": 71,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pewter_6",
+						"canvas_left": 507,
+						"canvas_top": 39,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pewter_6",
+						"canvas_left": 454,
+						"canvas_top": 39,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "pewter",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

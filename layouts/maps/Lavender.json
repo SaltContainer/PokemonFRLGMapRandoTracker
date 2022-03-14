@@ -1,0 +1,129 @@
+{
+	"lavender": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_lavender_0",
+						"canvas_left": 394,
+						"canvas_top": 53,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_0",
+						"canvas_left": 341,
+						"canvas_top": 53,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_lavender_1",
+						"canvas_left": 588,
+						"canvas_top": 67,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_1",
+						"canvas_left": 535,
+						"canvas_top": 67,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_lavender_2",
+						"canvas_left": 610,
+						"canvas_top": 214,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_2",
+						"canvas_left": 557,
+						"canvas_top": 214,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_lavender_3",
+						"canvas_left": 460,
+						"canvas_top": 146,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_3",
+						"canvas_left": 407,
+						"canvas_top": 146,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_lavender_4",
+						"canvas_left": 463,
+						"canvas_top": 224,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_4",
+						"canvas_left": 410,
+						"canvas_top": 224,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_lavender_5",
+						"canvas_left": 378,
+						"canvas_top": 224,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_lavender_5",
+						"canvas_left": 325,
+						"canvas_top": 224,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "lavender",
+						"canvas_left": 308,
+						"canvas_top": 0,
+						"width": 384,
+						"height": 320,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"mt_moon": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_mt_moon_0",
+						"canvas_left": 395,
+						"canvas_top": 576,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_moon_0",
+						"canvas_left": 342,
+						"canvas_top": 576,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_moon_1",
+						"canvas_left": 604,
+						"canvas_top": 244,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_moon_1",
+						"canvas_left": 551,
+						"canvas_top": 244,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_moon_2",
+						"canvas_left": 185,
+						"canvas_top": 84,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_moon_2",
+						"canvas_left": 132,
+						"canvas_top": 84,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_moon_3",
+						"canvas_left": 410,
+						"canvas_top": 212,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_moon_3",
+						"canvas_left": 357,
+						"canvas_top": 212,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "mt_moon",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

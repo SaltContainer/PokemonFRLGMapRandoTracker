@@ -1,0 +1,471 @@
+{
+	"silph_2": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_silph_2_0",
+						"canvas_left": 19,
+						"canvas_top": 726,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_0",
+						"canvas_left": 0,
+						"canvas_top": 726,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_1",
+						"canvas_left": 183,
+						"canvas_top": 643,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_1",
+						"canvas_left": 130,
+						"canvas_top": 643,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_2",
+						"canvas_left": 400,
+						"canvas_top": 662,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_2",
+						"canvas_left": 347,
+						"canvas_top": 662,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_3",
+						"canvas_left": 450,
+						"canvas_top": 720,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_3",
+						"canvas_left": 397,
+						"canvas_top": 720,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_4",
+						"canvas_left": 66,
+						"canvas_top": 439,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_4",
+						"canvas_left": 13,
+						"canvas_top": 439,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_5",
+						"canvas_left": 65,
+						"canvas_top": 371,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_5",
+						"canvas_left": 12,
+						"canvas_top": 371,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_6",
+						"canvas_left": 268,
+						"canvas_top": 352,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_6",
+						"canvas_left": 215,
+						"canvas_top": 352,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_7",
+						"canvas_left": 431,
+						"canvas_top": 325,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_7",
+						"canvas_left": 378,
+						"canvas_top": 325,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_8",
+						"canvas_left": 385,
+						"canvas_top": 580,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_8",
+						"canvas_left": 332,
+						"canvas_top": 580,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_9",
+						"canvas_left": 19,
+						"canvas_top": 181,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_9",
+						"canvas_left": 0,
+						"canvas_top": 181,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_10",
+						"canvas_left": 19,
+						"canvas_top": 263,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_10",
+						"canvas_left": 0,
+						"canvas_top": 263,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_11",
+						"canvas_left": 147,
+						"canvas_top": 84,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_11",
+						"canvas_left": 94,
+						"canvas_top": 84,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_12",
+						"canvas_left": 163,
+						"canvas_top": 147,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_12",
+						"canvas_left": 110,
+						"canvas_top": 147,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_13",
+						"canvas_left": 215,
+						"canvas_top": 0,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_13",
+						"canvas_left": 162,
+						"canvas_top": 0,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_14",
+						"canvas_left": 444,
+						"canvas_top": 46,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_14",
+						"canvas_left": 391,
+						"canvas_top": 46,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_15",
+						"canvas_left": 523,
+						"canvas_top": 245,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_15",
+						"canvas_left": 470,
+						"canvas_top": 245,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_16",
+						"canvas_left": 560,
+						"canvas_top": 316,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_16",
+						"canvas_left": 507,
+						"canvas_top": 316,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_17",
+						"canvas_left": 652,
+						"canvas_top": 368,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_17",
+						"canvas_left": 599,
+						"canvas_top": 368,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_18",
+						"canvas_left": 725,
+						"canvas_top": 453,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_18",
+						"canvas_left": 672,
+						"canvas_top": 453,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_19",
+						"canvas_left": 657,
+						"canvas_top": 533,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_19",
+						"canvas_left": 604,
+						"canvas_top": 533,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_20",
+						"canvas_left": 721,
+						"canvas_top": 582,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_20",
+						"canvas_left": 668,
+						"canvas_top": 582,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_21",
+						"canvas_left": 642,
+						"canvas_top": 691,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_21",
+						"canvas_left": 589,
+						"canvas_top": 691,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_22",
+						"canvas_left": 727,
+						"canvas_top": 673,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_22",
+						"canvas_left": 674,
+						"canvas_top": 673,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_23",
+						"canvas_left": 821,
+						"canvas_top": 635,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_23",
+						"canvas_left": 768,
+						"canvas_top": 635,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_2_24",
+						"canvas_left": 851,
+						"canvas_top": 914,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_2_24",
+						"canvas_left": 798,
+						"canvas_top": 914,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "silph_2",
+						"canvas_left": -4,
+						"canvas_top": 0,
+						"width": 1008,
+						"height": 944,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

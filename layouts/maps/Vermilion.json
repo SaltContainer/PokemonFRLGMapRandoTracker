@@ -1,0 +1,165 @@
+{
+	"vermilion": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_vermilion_0",
+						"canvas_left": 258,
+						"canvas_top": 63,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_0",
+						"canvas_left": 205,
+						"canvas_top": 63,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_1",
+						"canvas_left": 348,
+						"canvas_top": 58,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_1",
+						"canvas_left": 295,
+						"canvas_top": 58,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_2",
+						"canvas_left": 313,
+						"canvas_top": 231,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_2",
+						"canvas_left": 260,
+						"canvas_top": 231,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_3",
+						"canvas_left": 422,
+						"canvas_top": 240,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_3",
+						"canvas_left": 369,
+						"canvas_top": 240,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_4",
+						"canvas_left": 566,
+						"canvas_top": 235,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_4",
+						"canvas_left": 513,
+						"canvas_top": 235,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_5",
+						"canvas_left": 332,
+						"canvas_top": 363,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_5",
+						"canvas_left": 279,
+						"canvas_top": 363,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_6",
+						"canvas_left": 564,
+						"canvas_top": 353,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_6",
+						"canvas_left": 511,
+						"canvas_top": 353,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_vermilion_7",
+						"canvas_left": 473,
+						"canvas_top": 526,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_vermilion_7",
+						"canvas_left": 420,
+						"canvas_top": 526,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "vermilion",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 640,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

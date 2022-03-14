@@ -1,0 +1,75 @@
+{
+	"indigo": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_indigo_0",
+						"canvas_left": 466,
+						"canvas_top": 244,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_indigo_0",
+						"canvas_left": 413,
+						"canvas_top": 244,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_indigo_1",
+						"canvas_left": 303,
+						"canvas_top": 211,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_indigo_1",
+						"canvas_left": 250,
+						"canvas_top": 211,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_indigo_2",
+						"canvas_left": 355,
+						"canvas_top": 4,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_indigo_2",
+						"canvas_left": 302,
+						"canvas_top": 4,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "indigo",
+						"canvas_left": 300,
+						"canvas_top": 0,
+						"width": 400,
+						"height": 288,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

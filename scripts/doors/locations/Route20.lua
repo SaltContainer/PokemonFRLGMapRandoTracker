@@ -1,0 +1,6 @@
+local route_20_0 = DoorSlot("route_20","0")
+local route_20_0_hub = DoorSlotHub("route_20","0",route_20_0)
+route_20_0:setHubIcon(route_20_0_hub)
+local route_20_1 = DoorSlot("route_20","1")
+local route_20_1_hub = DoorSlotHub("route_20","1",route_20_1)
+route_20_1:setHubIcon(route_20_1_hub)

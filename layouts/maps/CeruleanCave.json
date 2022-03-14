@@ -1,0 +1,129 @@
+{
+	"cerulean_cave": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_0",
+						"canvas_left": 698,
+						"canvas_top": 327,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_0",
+						"canvas_left": 645,
+						"canvas_top": 327,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_1",
+						"canvas_left": 714,
+						"canvas_top": 26,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_1",
+						"canvas_left": 661,
+						"canvas_top": 26,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_2",
+						"canvas_left": 651,
+						"canvas_top": 151,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_2",
+						"canvas_left": 598,
+						"canvas_top": 151,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_3",
+						"canvas_left": 553,
+						"canvas_top": 167,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_3",
+						"canvas_left": 500,
+						"canvas_top": 167,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_4",
+						"canvas_left": 250,
+						"canvas_top": 231,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_4",
+						"canvas_left": 197,
+						"canvas_top": 231,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_cerulean_cave_5",
+						"canvas_left": 330,
+						"canvas_top": 24,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_cerulean_cave_5",
+						"canvas_left": 277,
+						"canvas_top": 24,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "cerulean_cave",
+						"canvas_left": 180,
+						"canvas_top": 0,
+						"width": 640,
+						"height": 368,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

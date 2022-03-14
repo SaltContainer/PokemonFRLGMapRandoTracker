@@ -1,0 +1,219 @@
+{
+	"mt_ember": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_mt_ember_0",
+						"canvas_left": 217,
+						"canvas_top": 518,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_0",
+						"canvas_left": 164,
+						"canvas_top": 518,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_1",
+						"canvas_left": 414,
+						"canvas_top": 331,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_1",
+						"canvas_left": 361,
+						"canvas_top": 331,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_2",
+						"canvas_left": 62,
+						"canvas_top": 370,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_2",
+						"canvas_left": 9,
+						"canvas_top": 370,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_3",
+						"canvas_left": 370,
+						"canvas_top": 207,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_3",
+						"canvas_left": 317,
+						"canvas_top": 207,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_4",
+						"canvas_left": 214,
+						"canvas_top": 41,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_4",
+						"canvas_left": 161,
+						"canvas_top": 41,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_5",
+						"canvas_left": 498,
+						"canvas_top": 52,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_5",
+						"canvas_left": 445,
+						"canvas_top": 52,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_6",
+						"canvas_left": 563,
+						"canvas_top": 293,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_6",
+						"canvas_left": 510,
+						"canvas_top": 293,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_7",
+						"canvas_left": 789,
+						"canvas_top": 294,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_7",
+						"canvas_left": 736,
+						"canvas_top": 294,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_8",
+						"canvas_left": 500,
+						"canvas_top": 397,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_8",
+						"canvas_left": 447,
+						"canvas_top": 397,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_9",
+						"canvas_left": 867,
+						"canvas_top": 459,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_9",
+						"canvas_left": 814,
+						"canvas_top": 459,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mt_ember_10",
+						"canvas_left": 832,
+						"canvas_top": 642,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mt_ember_10",
+						"canvas_left": 779,
+						"canvas_top": 642,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "mt_ember",
+						"canvas_left": 11,
+						"canvas_top": 0,
+						"width": 977,
+						"height": 688,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

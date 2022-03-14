@@ -1,0 +1,147 @@
+{
+	"five": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_five_0",
+						"canvas_left": 298,
+						"canvas_top": 547,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_0",
+						"canvas_left": 245,
+						"canvas_top": 547,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_1",
+						"canvas_left": 300,
+						"canvas_top": 402,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_1",
+						"canvas_left": 247,
+						"canvas_top": 402,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_2",
+						"canvas_left": 396,
+						"canvas_top": 399,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_2",
+						"canvas_left": 343,
+						"canvas_top": 399,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_3",
+						"canvas_left": 464,
+						"canvas_top": 454,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_3",
+						"canvas_left": 411,
+						"canvas_top": 454,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_4",
+						"canvas_left": 683,
+						"canvas_top": 643,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_4",
+						"canvas_left": 630,
+						"canvas_top": 643,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_5",
+						"canvas_left": 352,
+						"canvas_top": 100,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_5",
+						"canvas_left": 299,
+						"canvas_top": 100,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_five_6",
+						"canvas_left": 745,
+						"canvas_top": 179,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_five_6",
+						"canvas_left": 692,
+						"canvas_top": 179,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "five",
+						"canvas_left": 116,
+						"canvas_top": 0,
+						"width": 768,
+						"height": 736,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

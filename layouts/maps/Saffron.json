@@ -1,0 +1,255 @@
+{
+	"saffron": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_saffron_0",
+						"canvas_left": 82,
+						"canvas_top": 398,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_0",
+						"canvas_left": 29,
+						"canvas_top": 398,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_1",
+						"canvas_left": 887,
+						"canvas_top": 399,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_1",
+						"canvas_left": 834,
+						"canvas_top": 399,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_2",
+						"canvas_left": 508,
+						"canvas_top": 70,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_2",
+						"canvas_left": 455,
+						"canvas_top": 70,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_3",
+						"canvas_left": 514,
+						"canvas_top": 720,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_3",
+						"canvas_left": 461,
+						"canvas_top": 720,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_4",
+						"canvas_left": 345,
+						"canvas_top": 580,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_4",
+						"canvas_left": 292,
+						"canvas_top": 580,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_5",
+						"canvas_left": 651,
+						"canvas_top": 580,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_5",
+						"canvas_left": 598,
+						"canvas_top": 580,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_6",
+						"canvas_left": 490,
+						"canvas_top": 448,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_6",
+						"canvas_left": 437,
+						"canvas_top": 448,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_7",
+						"canvas_left": 394,
+						"canvas_top": 312,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_7",
+						"canvas_left": 341,
+						"canvas_top": 312,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_8",
+						"canvas_left": 716,
+						"canvas_top": 312,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_8",
+						"canvas_left": 663,
+						"canvas_top": 312,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_9",
+						"canvas_left": 594,
+						"canvas_top": 308,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_9",
+						"canvas_left": 541,
+						"canvas_top": 308,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_10",
+						"canvas_left": 319,
+						"canvas_top": 196,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_10",
+						"canvas_left": 266,
+						"canvas_top": 196,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_11",
+						"canvas_left": 593,
+						"canvas_top": 158,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_11",
+						"canvas_left": 540,
+						"canvas_top": 158,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_saffron_12",
+						"canvas_left": 707,
+						"canvas_top": 158,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_saffron_12",
+						"canvas_left": 654,
+						"canvas_top": 158,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "saffron",
+						"canvas_left": -28,
+						"canvas_top": 0,
+						"width": 1056,
+						"height": 880,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}
