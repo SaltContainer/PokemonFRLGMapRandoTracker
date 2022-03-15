@@ -2,140 +2,80 @@
     {
         "name": "First Gym",
         "type": "toggle",
-        "img": "images/badges/coal_badge.png",
+        "img": "images/badges/boulder_badge.png",
         "codes": "gym1"
     },
 	{
         "name": "Second Gym",
         "type": "toggle",
-        "img": "images/badges/forest_badge.png",
+        "img": "images/badges/cascade_badge.png",
         "codes": "gym2"
     },
 	{
         "name": "Third Gym",
         "type": "toggle",
-        "img": "images/badges/cobble_badge.png",
+        "img": "images/badges/thunder_badge.png",
         "codes": "gym3"
     },
 	{
         "name": "Fourth Gym",
         "type": "toggle",
-        "img": "images/badges/fen_badge.png",
+        "img": "images/badges/rainbow_badge.png",
         "codes": "gym4"
     },
 	{
         "name": "Fifth Gym",
         "type": "toggle",
-        "img": "images/badges/relic_badge.png",
+        "img": "images/badges/soul_badge.png",
         "codes": "gym5"
     },
 	{
         "name": "Sixth Gym",
         "type": "toggle",
-        "img": "images/badges/mine_badge.png",
+        "img": "images/badges/marsh_badge.png",
         "codes": "gym6"
     },
 	{
         "name": "Seventh Gym",
         "type": "toggle",
-        "img": "images/badges/icicle_badge.png",
+        "img": "images/badges/volcano_badge.png",
         "codes": "gym7"
     },
 	{
         "name": "Eighth Gym",
         "type": "toggle",
-        "img": "images/badges/beacon_badge.png",
+        "img": "images/badges/earth_badge.png",
         "codes": "gym8"
     },
 	{
-        "name": "E4 Aaron",
+        "name": "E4 Lorelei",
         "type": "toggle",
-        "img": "images/gyms/e4_bug.png",
+        "img": "images/gyms/e4_ice.png",
         "codes": "e41"
     },
 	{
-        "name": "E4 Bertha",
+        "name": "E4 Bruno",
         "type": "toggle",
-        "img": "images/gyms/e4_ground.png",
+        "img": "images/gyms/e4_fighting.png",
         "codes": "e42"
     },
 	{
-        "name": "E4 Flint",
+        "name": "E4 Agatha",
         "type": "toggle",
-        "img": "images/gyms/e4_fire.png",
+        "img": "images/gyms/e4_ghost.png",
         "codes": "e43"
     },
 	{
-        "name": "E4 Lucian",
+        "name": "E4 Lance",
         "type": "toggle",
-        "img": "images/gyms/e4_psychic.png",
+        "img": "images/gyms/e4_dragon.png",
         "codes": "e44"
     },
 	{
-        "name": "Champion Cynthia",
+        "name": "Champion Blue",
         "type": "toggle",
         "img": "images/gyms/champ.png",
         "codes": "champ"
-    },
-    {
-        "name": "Cut Needed",
-        "type": "toggle",
-        "img": "images/hms/cut.png",
-        "codes": "cut"
-    },
-	{
-        "name": "Rock Smash Needed",
-        "type": "toggle",
-        "img": "images/hms/rock_smash.png",
-        "codes": "rock_smash"
-    },
-	{
-        "name": "Strength Needed",
-        "type": "toggle",
-        "img": "images/hms/strength.png",
-        "codes": "strength"
-    },
-	{
-        "name": "Surf Needed",
-        "type": "toggle",
-        "img": "images/hms/surf.png",
-        "codes": "surf"
-    },
-	{
-        "name": "Waterfall Needed",
-        "type": "toggle",
-        "img": "images/hms/waterfall.png",
-        "codes": "waterfall"
-    },
-	{
-        "name": "Rock Climb Needed",
-        "type": "toggle",
-        "img": "images/hms/rock_climb.png",
-        "codes": "rock_climb"
-    },
-	{
-        "name": "One Way",
-        "type": "toggle",
-        "img": "images/other/one_way.png",
-        "codes": "one_way"
-    },
-	{
-        "name": "Dead End",
-        "type": "toggle",
-        "img": "images/other/dead_end.png",
-        "codes": "dead_end"
-    },
-	{
-        "name": "Event Block",
-        "type": "toggle",
-        "img": "images/other/event.png",
-        "codes": "event"
-    },
-	{
-        "name": "Trainer Block",
-        "type": "toggle",
-        "img": "images/other/trainer.png",
-        "codes": "trainer"
     },
     {
         "name": "HM01 - Cut",
@@ -162,7 +102,7 @@
         "codes": "hm4"
     },
     {
-        "name": "HM05 - Defog",
+        "name": "HM05 - Flash",
         "type": "toggle",
         "img": "images/hms/hm5.png",
         "codes": "hm5"
@@ -178,59 +118,5 @@
         "type": "toggle",
         "img": "images/hms/hm7.png",
         "codes": "hm7"
-    },
-    {
-        "name": "HM08 - Rock Climb",
-        "type": "toggle",
-        "img": "images/hms/hm8.png",
-        "codes": "hm8"
-    },
-	{
-        "name": "Custom 1",
-        "type": "toggle",
-        "img": "images/types/normal.png",
-        "codes": "custom1"
-    },
-	{
-        "name": "Custom 2",
-        "type": "toggle",
-        "img": "images/types/water.png",
-        "codes": "custom2"
-    },
-	{
-        "name": "Custom 3",
-        "type": "toggle",
-        "img": "images/types/grass.png",
-        "codes": "custom3"
-    },
-	{
-        "name": "Custom 4",
-        "type": "toggle",
-        "img": "images/types/electric.png",
-        "codes": "custom4"
-    },
-    {
-        "name": "Custom 5",
-        "type": "toggle",
-        "img": "images/types/poison.png",
-        "codes": "custom5"
-    },
-	{
-        "name": "Custom 6",
-        "type": "toggle",
-        "img": "images/types/fairy.png",
-        "codes": "custom6"
-    },
-	{
-        "name": "Custom 7",
-        "type": "toggle",
-        "img": "images/types/steel.png",
-        "codes": "custom7"
-    },
-	{
-        "name": "Custom 8",
-        "type": "toggle",
-        "img": "images/types/dragon.png",
-        "codes": "custom8"
     }
 ]

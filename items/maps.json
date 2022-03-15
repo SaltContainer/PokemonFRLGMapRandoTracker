@@ -287,7 +287,7 @@
         "img": "images/maps/six.png"
     },
     {
-        "name": "SS. Anne",
+        "name": "S.S. Anne",
         "codes": "ss_anne",
 		"type": "static",
         "initial_active_state": true,

@@ -20,7 +20,7 @@ function DoorSlotHub:getState()
 end
 
 function DoorSlotHub:updateIcon()
-    if self:getState() < 52 then
+    if self:getState() < 51 then
         self.ItemInstance.Icon = nil
     else
         local img = DoorSlot.Icons[self:getState()]
