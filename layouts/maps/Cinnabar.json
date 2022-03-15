@@ -9,7 +9,7 @@
 						"type": "item",
 						"item": "slot_cinnabar_0",
 						"canvas_left": 393,
-						"canvas_top": 18,
+						"canvas_top": 21,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -18,7 +18,7 @@
 						"type": "item",
 						"item": "hubslot_cinnabar_0",
 						"canvas_left": 340,
-						"canvas_top": 18,
+						"canvas_top": 21,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_1",
-						"canvas_left": 588,
-						"canvas_top": 27,
+						"canvas_left": 587,
+						"canvas_top": 28,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_1",
-						"canvas_left": 535,
-						"canvas_top": 27,
+						"canvas_left": 534,
+						"canvas_top": 28,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_2",
-						"canvas_left": 391,
-						"canvas_top": 109,
+						"canvas_left": 393,
+						"canvas_top": 103,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_2",
-						"canvas_left": 338,
-						"canvas_top": 109,
+						"canvas_left": 340,
+						"canvas_top": 103,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_3",
-						"canvas_left": 489,
-						"canvas_top": 146,
+						"canvas_left": 491,
+						"canvas_top": 163,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_3",
-						"canvas_left": 436,
-						"canvas_top": 146,
+						"canvas_left": 438,
+						"canvas_top": 163,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_4",
-						"canvas_left": 569,
-						"canvas_top": 143,
+						"canvas_left": 565,
+						"canvas_top": 127,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_4",
-						"canvas_left": 516,
-						"canvas_top": 143,
+						"canvas_left": 512,
+						"canvas_top": 127,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_5",
-						"canvas_left": 330,
-						"canvas_top": 464,
+						"canvas_left": 329,
+						"canvas_top": 469,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_5",
-						"canvas_left": 277,
-						"canvas_top": 464,
+						"canvas_left": 276,
+						"canvas_top": 469,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_6",
-						"canvas_left": 474,
-						"canvas_top": 383,
+						"canvas_left": 475,
+						"canvas_top": 374,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_6",
-						"canvas_left": 421,
-						"canvas_top": 383,
+						"canvas_left": 422,
+						"canvas_top": 374,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_7",
-						"canvas_left": 568,
-						"canvas_top": 384,
+						"canvas_left": 569,
+						"canvas_top": 408,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_7",
-						"canvas_left": 515,
-						"canvas_top": 384,
+						"canvas_left": 516,
+						"canvas_top": 408,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_cinnabar_8",
-						"canvas_left": 666,
-						"canvas_top": 385,
+						"canvas_left": 669,
+						"canvas_top": 373,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -161,8 +161,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_cinnabar_8",
-						"canvas_left": 613,
-						"canvas_top": 385,
+						"canvas_left": 616,
+						"canvas_top": 373,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1

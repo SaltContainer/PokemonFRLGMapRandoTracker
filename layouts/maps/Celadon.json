@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_0",
-						"canvas_left": 181,
-						"canvas_top": 195,
+						"canvas_left": 186,
+						"canvas_top": 173,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_0",
-						"canvas_left": 128,
-						"canvas_top": 195,
+						"canvas_left": 133,
+						"canvas_top": 173,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_1",
-						"canvas_left": 258,
-						"canvas_top": 196,
+						"canvas_left": 250,
+						"canvas_top": 200,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_1",
-						"canvas_left": 205,
-						"canvas_top": 196,
+						"canvas_left": 197,
+						"canvas_top": 200,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -45,7 +45,7 @@
 						"type": "item",
 						"item": "slot_celadon_2",
 						"canvas_left": 490,
-						"canvas_top": 147,
+						"canvas_top": 42,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -54,7 +54,7 @@
 						"type": "item",
 						"item": "hubslot_celadon_2",
 						"canvas_left": 437,
-						"canvas_top": 147,
+						"canvas_top": 42,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -63,7 +63,7 @@
 						"type": "item",
 						"item": "slot_celadon_3",
 						"canvas_left": 491,
-						"canvas_top": 42,
+						"canvas_top": 148,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -72,7 +72,7 @@
 						"type": "item",
 						"item": "hubslot_celadon_3",
 						"canvas_left": 438,
-						"canvas_top": 42,
+						"canvas_top": 148,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_4",
-						"canvas_left": 778,
-						"canvas_top": 146,
+						"canvas_left": 777,
+						"canvas_top": 147,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_4",
-						"canvas_left": 725,
-						"canvas_top": 146,
+						"canvas_left": 724,
+						"canvas_top": 147,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_5",
-						"canvas_left": 188,
-						"canvas_top": 454,
+						"canvas_left": 554,
+						"canvas_top": 334,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_5",
-						"canvas_left": 135,
-						"canvas_top": 454,
+						"canvas_left": 501,
+						"canvas_top": 334,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_6",
-						"canvas_left": 552,
-						"canvas_top": 313,
+						"canvas_left": 634,
+						"canvas_top": 280,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_6",
-						"canvas_left": 499,
-						"canvas_top": 313,
+						"canvas_left": 581,
+						"canvas_top": 280,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_7",
-						"canvas_left": 635,
-						"canvas_top": 293,
+						"canvas_left": 192,
+						"canvas_top": 446,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_7",
-						"canvas_left": 582,
-						"canvas_top": 293,
+						"canvas_left": 139,
+						"canvas_top": 446,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_8",
-						"canvas_left": 601,
-						"canvas_top": 436,
+						"canvas_left": 603,
+						"canvas_top": 412,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -161,8 +161,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_8",
-						"canvas_left": 548,
-						"canvas_top": 436,
+						"canvas_left": 550,
+						"canvas_top": 412,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -170,8 +170,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_9",
-						"canvas_left": 668,
-						"canvas_top": 438,
+						"canvas_left": 672,
+						"canvas_top": 452,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -179,8 +179,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_9",
-						"canvas_left": 615,
-						"canvas_top": 438,
+						"canvas_left": 619,
+						"canvas_top": 452,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -188,8 +188,8 @@
 					{
 						"type": "item",
 						"item": "slot_celadon_10",
-						"canvas_left": 795,
-						"canvas_top": 437,
+						"canvas_left": 801,
+						"canvas_top": 417,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -197,8 +197,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_celadon_10",
-						"canvas_left": 742,
-						"canvas_top": 437,
+						"canvas_left": 748,
+						"canvas_top": 417,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1

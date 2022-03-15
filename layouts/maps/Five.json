@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_0",
-						"canvas_left": 298,
-						"canvas_top": 547,
+						"canvas_left": 296,
+						"canvas_top": 551,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_0",
-						"canvas_left": 245,
-						"canvas_top": 547,
+						"canvas_left": 243,
+						"canvas_top": 551,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_1",
-						"canvas_left": 300,
-						"canvas_top": 402,
+						"canvas_left": 312,
+						"canvas_top": 420,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_1",
-						"canvas_left": 247,
-						"canvas_top": 402,
+						"canvas_left": 259,
+						"canvas_top": 420,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_2",
-						"canvas_left": 396,
-						"canvas_top": 399,
+						"canvas_left": 393,
+						"canvas_top": 381,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_2",
-						"canvas_left": 343,
-						"canvas_top": 399,
+						"canvas_left": 340,
+						"canvas_top": 381,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_3",
-						"canvas_left": 464,
-						"canvas_top": 454,
+						"canvas_left": 473,
+						"canvas_top": 456,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_3",
-						"canvas_left": 411,
-						"canvas_top": 454,
+						"canvas_left": 420,
+						"canvas_top": 456,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_4",
-						"canvas_left": 683,
-						"canvas_top": 643,
+						"canvas_left": 678,
+						"canvas_top": 640,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_4",
-						"canvas_left": 630,
-						"canvas_top": 643,
+						"canvas_left": 625,
+						"canvas_top": 640,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_5",
-						"canvas_left": 352,
-						"canvas_top": 100,
+						"canvas_left": 746,
+						"canvas_top": 177,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_5",
-						"canvas_left": 299,
-						"canvas_top": 100,
+						"canvas_left": 693,
+						"canvas_top": 177,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_five_6",
-						"canvas_left": 745,
-						"canvas_top": 179,
+						"canvas_left": 362,
+						"canvas_top": 101,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_five_6",
-						"canvas_left": 692,
-						"canvas_top": 179,
+						"canvas_left": 309,
+						"canvas_top": 101,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1

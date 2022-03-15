@@ -6,31 +6,38 @@
             "width": 1000,
             "tabs": [
                 {
-                    "title": "Acuity Lakefront",
+                    "title": "Celadon",
                     "content": {
                         "type": "layout",
-                        "key": "acuity_lakefront"
+                        "key": "celadon"
                     }
                 },
                 {
-                    "title": "Backlot Mansion",
+                    "title": "Cerulean",
+                    "content": {
+                        "type": "layout",
+                        "key": "cerulean"
+                    }
+                },
+                {
+                    "title": "Cerulean Cave",
+                    "content": {
+                        "type": "layout",
+                        "key": "cerulean_cave"
+                    }
+                },
+                {
+                    "title": "Cinnabar",
+                    "content": {
+                        "type": "layout",
+                        "key": "cinnabar"
+                    }
+                },
+                {
+                    "title": "Cinnabar Mansion",
                     "content": {
                         "type": "layout",
                         "key": "mansion"
-                    }
-                },
-                {
-                    "title": "Canalave",
-                    "content": {
-                        "type": "layout",
-                        "key": "canalave"
-                    }
-                },
-                {
-                    "title": "Celestic",
-                    "content": {
-                        "type": "layout",
-                        "key": "celestic"
                     }
                 },
                 {
@@ -41,234 +48,276 @@
                     }
                 },
                 {
-                    "title": "Eterna",
+                    "title": "Dotted Hole",
                     "content": {
                         "type": "layout",
-                        "key": "eterna"
+                        "key": "dotted_hole"
                     }
                 },
                 {
-                    "title": "Eterna Forest",
+                    "title": "Five Island",
                     "content": {
                         "type": "layout",
-                        "key": "eterna_forest"
+                        "key": "five"
                     }
                 },
                 {
-                    "title": "Eterna Gala. Build.",
+                    "title": "Four Island",
                     "content": {
                         "type": "layout",
-                        "key": "eterna_galactic"
+                        "key": "four"
                     }
                 },
                 {
-                    "title": "Fight Area",
+                    "title": "Fuchsia",
                     "content": {
                         "type": "layout",
-                        "key": "fight_area"
+                        "key": "fuchsia"
                     }
                 },
                 {
-                    "title": "Floaroma Meadow",
+                    "title": "Icefall Cave",
                     "content": {
                         "type": "layout",
-                        "key": "floaroma_meadow"
+                        "key": "icefall"
                     }
                 },
                 {
-                    "title": "Floaroma",
+                    "title": "Indigo Plateau",
                     "content": {
                         "type": "layout",
-                        "key": "floaroma"
+                        "key": "indigo"
                     }
                 },
                 {
-                    "title": "Fuego Ironworks",
+                    "title": "Lavender",
                     "content": {
                         "type": "layout",
-                        "key": "fuego_ironworks"
+                        "key": "lavender"
                     }
                 },
                 {
-                    "title": "Galactic HQ",
+                    "title": "Lost Cave",
                     "content": {
                         "type": "layout",
-                        "key": "galactic_hq"
+                        "key": "lost_cave"
                     }
                 },
                 {
-                    "title": "Hearthome",
+                    "title": "Mt. Ember",
                     "content": {
                         "type": "layout",
-                        "key": "hearthome"
+                        "key": "mt_ember"
                     }
                 },
                 {
-                    "title": "Iron Island",
+                    "title": "Mt. Moon",
                     "content": {
                         "type": "layout",
-                        "key": "iron_island"
+                        "key": "mt_moon"
                     }
                 },
                 {
-                    "title": "Jubilife",
+                    "title": "Navel Rock",
                     "content": {
                         "type": "layout",
-                        "key": "jubilife"
+                        "key": "navel_rock"
                     }
                 },
                 {
-                    "title": "Jubilife TV",
+                    "title": "One Island",
                     "content": {
                         "type": "layout",
-                        "key": "jubilife_tv"
+                        "key": "one"
                     }
                 },
                 {
-                    "title": "Mt. Coronet",
+                    "title": "Pewter",
                     "content": {
                         "type": "layout",
-                        "key": "coronet"
+                        "key": "pewter"
                     }
                 },
                 {
-                    "title": "Mt. Coronet Peak",
+                    "title": "Rocket Hideout",
                     "content": {
                         "type": "layout",
-                        "key": "coronet_peak"
+                        "key": "rocket_hideout"
                     }
                 },
                 {
-                    "title": "Old Chateau",
+                    "title": "Route 2",
                     "content": {
                         "type": "layout",
-                        "key": "old_chateau"
+                        "key": "route_2"
                     }
                 },
                 {
-                    "title": "Oreburgh",
+                    "title": "Route 4",
                     "content": {
                         "type": "layout",
-                        "key": "oreburgh"
+                        "key": "route_4"
                     }
                 },
                 {
-                    "title": "Oreburgh Gate",
+                    "title": "Route 5",
                     "content": {
                         "type": "layout",
-                        "key": "oreburgh_gate"
+                        "key": "route_5"
                     }
                 },
                 {
-                    "title": "Pastoria",
+                    "title": "Route 6",
                     "content": {
                         "type": "layout",
-                        "key": "pastoria"
+                        "key": "route_6"
                     }
                 },
                 {
-                    "title": "Pokémon League",
+                    "title": "Route 7",
                     "content": {
                         "type": "layout",
-                        "key": "league"
+                        "key": "route_7"
                     }
                 },
                 {
-                    "title": "Pokétch",
+                    "title": "Route 8",
                     "content": {
                         "type": "layout",
-                        "key": "poketch"
+                        "key": "route_8"
                     }
                 },
                 {
-                    "title": "Resort Area",
+                    "title": "Route 10",
                     "content": {
                         "type": "layout",
-                        "key": "resort_area"
+                        "key": "route_10"
                     }
                 },
                 {
-                    "title": "Sandgem",
+                    "title": "Route 11",
                     "content": {
                         "type": "layout",
-                        "key": "sandgem"
+                        "key": "route_11"
                     }
                 },
                 {
-                    "title": "Snowpoint",
+                    "title": "Route 12",
                     "content": {
                         "type": "layout",
-                        "key": "snowpoint"
+                        "key": "route_12"
                     }
                 },
                 {
-                    "title": "Solaceon Ruins",
+                    "title": "Route 15",
                     "content": {
                         "type": "layout",
-                        "key": "solaceon_ruins"
+                        "key": "route_15"
                     }
                 },
                 {
-                    "title": "Solaceon",
+                    "title": "Route 16",
                     "content": {
                         "type": "layout",
-                        "key": "solaceon"
+                        "key": "route_16"
                     }
                 },
                 {
-                    "title": "Spring Path",
+                    "title": "Route 18",
                     "content": {
                         "type": "layout",
-                        "key": "spring_path"
+                        "key": "route_18"
                     }
                 },
                 {
-                    "title": "Stark Mountain",
+                    "title": "Route 20",
                     "content": {
                         "type": "layout",
-                        "key": "stark"
+                        "key": "route_20"
                     }
                 },
                 {
-                    "title": "Sunyshore",
+                    "title": "Route 22",
                     "content": {
                         "type": "layout",
-                        "key": "sunyshore"
+                        "key": "route_22"
                     }
                 },
                 {
-                    "title": "Survival Area",
+                    "title": "Route 25",
                     "content": {
                         "type": "layout",
-                        "key": "survival_area"
+                        "key": "route_25"
                     }
                 },
                 {
-                    "title": "Valley Windworks",
+                    "title": "Saffron",
                     "content": {
                         "type": "layout",
-                        "key": "valley_windworks"
+                        "key": "saffron"
                     }
                 },
                 {
-                    "title": "Valor Lakefront + 213",
+                    "title": "Seafoam Islands",
                     "content": {
                         "type": "layout",
-                        "key": "valor_lakefront"
+                        "key": "seafoam_islands"
                     }
                 },
                 {
-                    "title": "Veilstone",
+                    "title": "Seven Island",
                     "content": {
                         "type": "layout",
-                        "key": "veilstone"
+                        "key": "seven"
                     }
                 },
                 {
-                    "title": "Verity Lakefront",
+                    "title": "Silph Co. 1F-5F",
                     "content": {
                         "type": "layout",
-                        "key": "verity_lakefront"
+                        "key": "silph_1"
+                    }
+                },
+                {
+                    "title": "Silph Co. 6F-11F",
+                    "content": {
+                        "type": "layout",
+                        "key": "silph_2"
+                    }
+                },
+                {
+                    "title": "Six Island",
+                    "content": {
+                        "type": "layout",
+                        "key": "six"
+                    }
+                },
+                {
+                    "title": "SS. Anne",
+                    "content": {
+                        "type": "layout",
+                        "key": "ss_anne"
+                    }
+                },
+                {
+                    "title": "Three Island",
+                    "content": {
+                        "type": "layout",
+                        "key": "three"
+                    }
+                },
+                {
+                    "title": "Two Island",
+                    "content": {
+                        "type": "layout",
+                        "key": "two"
+                    }
+                },
+                {
+                    "title": "Vermilion",
+                    "content": {
+                        "type": "layout",
+                        "key": "vermilion"
                     }
                 },
                 {
@@ -279,143 +328,10 @@
                     }
                 },
                 {
-                    "title": "203",
+                    "title": "Viridian",
                     "content": {
                         "type": "layout",
-                        "key": "route_203"
-                    }
-                },
-                {
-                    "title": "204",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_204"
-                    }
-                },
-                {
-                    "title": "205",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_205"
-                    }
-                },
-                {
-                    "title": "206",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_206"
-                    }
-                },
-                {
-                    "title": "207",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_207"
-                    }
-                },
-                {
-                    "title": "208",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_208"
-                    }
-                },
-                {
-                    "title": "209",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_209"
-                    }
-                },
-                {
-                    "title": "210",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_210"
-                    }
-                },
-                {
-                    "title": "211",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_211"
-                    }
-                },
-                {
-                    "title": "212",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_212"
-                    }
-                },
-                {
-                    "title": "214",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_214"
-                    }
-                },
-                {
-                    "title": "215",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_215"
-                    }
-                },
-                {
-                    "title": "216",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_216"
-                    }
-                },
-                {
-                    "title": "217",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_217"
-                    }
-                },
-                {
-                    "title": "221",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_221"
-                    }
-                },
-                {
-                    "title": "222",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_222"
-                    }
-                },
-                {
-                    "title": "225",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_225"
-                    }
-                },
-                {
-                    "title": "226",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_226"
-                    }
-                },
-                {
-                    "title": "227",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_227"
-                    }
-                },
-                {
-                    "title": "228",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_228"
+                        "key": "viridian"
                     }
                 }
             ]

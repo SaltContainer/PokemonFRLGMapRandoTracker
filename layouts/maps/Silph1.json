@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_0",
-						"canvas_left": 0,
-						"canvas_top": 841,
+						"canvas_left": 29,
+						"canvas_top": 713,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -18,7 +18,7 @@
 						"type": "item",
 						"item": "hubslot_silph_1_0",
 						"canvas_left": 0,
-						"canvas_top": 841,
+						"canvas_top": 713,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_1",
-						"canvas_left": 0,
-						"canvas_top": 751,
+						"canvas_left": 41,
+						"canvas_top": 634,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -36,7 +36,7 @@
 						"type": "item",
 						"item": "hubslot_silph_1_1",
 						"canvas_left": 0,
-						"canvas_top": 751,
+						"canvas_top": 634,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_2",
-						"canvas_left": 18,
-						"canvas_top": 661,
+						"canvas_left": 87,
+						"canvas_top": 562,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_2",
-						"canvas_left": 0,
-						"canvas_top": 661,
+						"canvas_left": 34,
+						"canvas_top": 562,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_3",
-						"canvas_left": 0,
-						"canvas_top": 455,
+						"canvas_left": 16,
+						"canvas_top": 383,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -72,7 +72,7 @@
 						"type": "item",
 						"item": "hubslot_silph_1_3",
 						"canvas_left": 0,
-						"canvas_top": 455,
+						"canvas_top": 383,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_4",
-						"canvas_left": 148,
-						"canvas_top": 452,
+						"canvas_left": 194,
+						"canvas_top": 386,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_4",
-						"canvas_left": 95,
-						"canvas_top": 452,
+						"canvas_left": 141,
+						"canvas_top": 386,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_5",
-						"canvas_left": 434,
-						"canvas_top": 658,
+						"canvas_left": 439,
+						"canvas_top": 563,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_5",
-						"canvas_left": 381,
-						"canvas_top": 658,
+						"canvas_left": 386,
+						"canvas_top": 563,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_6",
-						"canvas_left": 323,
-						"canvas_top": 371,
+						"canvas_left": 31,
+						"canvas_top": 261,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_6",
-						"canvas_left": 270,
-						"canvas_top": 371,
+						"canvas_left": 0,
+						"canvas_top": 261,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_7",
-						"canvas_left": 413,
-						"canvas_top": 413,
+						"canvas_left": 17,
+						"canvas_top": 179,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_7",
-						"canvas_left": 360,
-						"canvas_top": 413,
+						"canvas_left": 0,
+						"canvas_top": 179,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_8",
-						"canvas_left": 0,
-						"canvas_top": 307,
+						"canvas_left": 47,
+						"canvas_top": 69,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -162,7 +162,7 @@
 						"type": "item",
 						"item": "hubslot_silph_1_8",
 						"canvas_left": 0,
-						"canvas_top": 307,
+						"canvas_top": 69,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -170,8 +170,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_9",
-						"canvas_left": 0,
-						"canvas_top": 215,
+						"canvas_left": 168,
+						"canvas_top": 183,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -179,8 +179,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_9",
-						"canvas_left": 0,
-						"canvas_top": 215,
+						"canvas_left": 115,
+						"canvas_top": 183,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -188,8 +188,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_10",
-						"canvas_left": 0,
-						"canvas_top": 85,
+						"canvas_left": 386,
+						"canvas_top": 179,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -197,8 +197,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_10",
-						"canvas_left": 0,
-						"canvas_top": 85,
+						"canvas_left": 333,
+						"canvas_top": 179,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -206,8 +206,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_11",
-						"canvas_left": 114,
-						"canvas_top": 215,
+						"canvas_left": 426,
+						"canvas_top": 263,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -215,8 +215,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_11",
-						"canvas_left": 61,
-						"canvas_top": 215,
+						"canvas_left": 373,
+						"canvas_top": 263,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -224,8 +224,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_12",
-						"canvas_left": 419,
-						"canvas_top": 310,
+						"canvas_left": 348,
+						"canvas_top": 303,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -233,8 +233,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_12",
-						"canvas_left": 366,
-						"canvas_top": 310,
+						"canvas_left": 295,
+						"canvas_top": 303,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -242,8 +242,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_13",
-						"canvas_left": 369,
-						"canvas_top": 215,
+						"canvas_left": 423,
+						"canvas_top": 360,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -251,8 +251,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_13",
-						"canvas_left": 316,
-						"canvas_top": 215,
+						"canvas_left": 370,
+						"canvas_top": 360,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -260,8 +260,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_14",
-						"canvas_left": 435,
-						"canvas_top": 69,
+						"canvas_left": 342,
+						"canvas_top": 42,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -269,8 +269,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_14",
-						"canvas_left": 382,
-						"canvas_top": 69,
+						"canvas_left": 289,
+						"canvas_top": 42,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -278,8 +278,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_15",
-						"canvas_left": 326,
-						"canvas_top": 22,
+						"canvas_left": 433,
+						"canvas_top": 0,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -287,8 +287,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_15",
-						"canvas_left": 273,
-						"canvas_top": 22,
+						"canvas_left": 380,
+						"canvas_top": 0,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -296,8 +296,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_16",
-						"canvas_left": 428,
-						"canvas_top": 0,
+						"canvas_left": 442,
+						"canvas_top": 66,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -305,8 +305,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_16",
-						"canvas_left": 375,
-						"canvas_top": 0,
+						"canvas_left": 389,
+						"canvas_top": 66,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -314,8 +314,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_17",
-						"canvas_left": 529,
-						"canvas_top": 484,
+						"canvas_left": 515,
+						"canvas_top": 408,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -323,8 +323,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_17",
-						"canvas_left": 476,
-						"canvas_top": 484,
+						"canvas_left": 462,
+						"canvas_top": 408,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -332,8 +332,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_18",
-						"canvas_left": 661,
-						"canvas_top": 486,
+						"canvas_left": 636,
+						"canvas_top": 423,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -341,26 +341,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_18",
-						"canvas_left": 608,
-						"canvas_top": 486,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_silph_1_19",
-						"canvas_left": 739,
-						"canvas_top": 276,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_silph_1_19",
-						"canvas_left": 686,
-						"canvas_top": 276,
+						"canvas_left": 583,
+						"canvas_top": 423,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -368,8 +350,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_20",
-						"canvas_left": 1027,
-						"canvas_top": 245,
+						"canvas_left": 700,
+						"canvas_top": 231,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -377,8 +359,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_20",
-						"canvas_left": 974,
-						"canvas_top": 245,
+						"canvas_left": 647,
+						"canvas_top": 231,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -386,8 +368,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_21",
-						"canvas_left": 920,
-						"canvas_top": 203,
+						"canvas_left": 845,
+						"canvas_top": 195,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -395,8 +377,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_21",
-						"canvas_left": 867,
-						"canvas_top": 203,
+						"canvas_left": 792,
+						"canvas_top": 195,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -404,8 +386,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_22",
-						"canvas_left": 1013,
-						"canvas_top": 169,
+						"canvas_left": 925,
+						"canvas_top": 139,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -413,8 +395,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_22",
-						"canvas_left": 960,
-						"canvas_top": 169,
+						"canvas_left": 872,
+						"canvas_top": 139,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -422,8 +404,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_23",
-						"canvas_left": 529,
-						"canvas_top": 852,
+						"canvas_left": 944,
+						"canvas_top": 219,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -431,8 +413,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_23",
-						"canvas_left": 476,
-						"canvas_top": 852,
+						"canvas_left": 891,
+						"canvas_top": 219,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -440,8 +422,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_24",
-						"canvas_left": 784,
-						"canvas_top": 758,
+						"canvas_left": 523,
+						"canvas_top": 730,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -449,8 +431,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_24",
-						"canvas_left": 731,
-						"canvas_top": 758,
+						"canvas_left": 470,
+						"canvas_top": 730,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -458,8 +440,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_25",
-						"canvas_left": 689,
-						"canvas_top": 677,
+						"canvas_left": 660,
+						"canvas_top": 576,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -467,8 +449,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_25",
-						"canvas_left": 636,
-						"canvas_top": 677,
+						"canvas_left": 607,
+						"canvas_top": 576,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -476,8 +458,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_26",
-						"canvas_left": 789,
-						"canvas_top": 630,
+						"canvas_left": 741,
+						"canvas_top": 643,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -485,8 +467,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_26",
-						"canvas_left": 736,
-						"canvas_top": 630,
+						"canvas_left": 688,
+						"canvas_top": 643,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -494,8 +476,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_27",
-						"canvas_left": 909,
-						"canvas_top": 531,
+						"canvas_left": 742,
+						"canvas_top": 526,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -503,8 +485,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_27",
-						"canvas_left": 856,
-						"canvas_top": 531,
+						"canvas_left": 689,
+						"canvas_top": 526,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -512,8 +494,8 @@
 					{
 						"type": "item",
 						"item": "slot_silph_1_28",
-						"canvas_left": 1010,
-						"canvas_top": 592,
+						"canvas_left": 852,
+						"canvas_top": 443,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -521,8 +503,26 @@
 					{
 						"type": "item",
 						"item": "hubslot_silph_1_28",
-						"canvas_left": 957,
-						"canvas_top": 592,
+						"canvas_left": 799,
+						"canvas_top": 443,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_silph_1_29",
+						"canvas_left": 925,
+						"canvas_top": 502,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_silph_1_29",
+						"canvas_left": 872,
+						"canvas_top": 502,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -530,10 +530,10 @@
 					{
 						"type": "item",
 						"item": "silph_1",
-						"canvas_left": -84,
+						"canvas_left": 0,
 						"canvas_top": 0,
-						"width": 1168,
-						"height": 896,
+						"width": 1000,
+						"height": 767,
 						"canvas_depth": 0
 					}
 				]

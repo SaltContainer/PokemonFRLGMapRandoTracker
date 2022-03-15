@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_0",
-						"canvas_left": 265,
-						"canvas_top": 432,
+						"canvas_left": 267,
+						"canvas_top": 435,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_0",
-						"canvas_left": 212,
-						"canvas_top": 432,
+						"canvas_left": 214,
+						"canvas_top": 435,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_1",
-						"canvas_left": 304,
-						"canvas_top": 174,
+						"canvas_left": 307,
+						"canvas_top": 180,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_1",
-						"canvas_left": 251,
-						"canvas_top": 174,
+						"canvas_left": 254,
+						"canvas_top": 180,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,7 +44,7 @@
 					{
 						"type": "item",
 						"item": "slot_four_2",
-						"canvas_left": 395,
+						"canvas_left": 394,
 						"canvas_top": 290,
 						"width": 32,
 						"height": 32,
@@ -53,7 +53,7 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_2",
-						"canvas_left": 342,
+						"canvas_left": 341,
 						"canvas_top": 290,
 						"width": 138,
 						"height": 32,
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_3",
-						"canvas_left": 525,
-						"canvas_top": 195,
+						"canvas_left": 522,
+						"canvas_top": 193,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_3",
-						"canvas_left": 472,
-						"canvas_top": 195,
+						"canvas_left": 469,
+						"canvas_top": 193,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_4",
-						"canvas_left": 450,
-						"canvas_top": 387,
+						"canvas_left": 452,
+						"canvas_top": 368,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_4",
-						"canvas_left": 397,
-						"canvas_top": 387,
+						"canvas_left": 399,
+						"canvas_top": 368,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_5",
-						"canvas_left": 524,
-						"canvas_top": 388,
+						"canvas_left": 521,
+						"canvas_top": 406,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_5",
-						"canvas_left": 471,
-						"canvas_top": 388,
+						"canvas_left": 468,
+						"canvas_top": 406,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_6",
-						"canvas_left": 653,
-						"canvas_top": 334,
+						"canvas_left": 649,
+						"canvas_top": 337,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_6",
-						"canvas_left": 600,
-						"canvas_top": 334,
+						"canvas_left": 596,
+						"canvas_top": 337,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_four_7",
-						"canvas_left": 713,
-						"canvas_top": 162,
+						"canvas_left": 714,
+						"canvas_top": 165,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_four_7",
-						"canvas_left": 660,
-						"canvas_top": 162,
+						"canvas_left": 661,
+						"canvas_top": 165,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1

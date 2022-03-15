@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_0",
-						"canvas_left": 150,
-						"canvas_top": 962,
+						"canvas_left": 149,
+						"canvas_top": 649,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_0",
-						"canvas_left": 97,
-						"canvas_top": 962,
+						"canvas_left": 96,
+						"canvas_top": 649,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_1",
-						"canvas_left": 568,
-						"canvas_top": 962,
+						"canvas_left": 188,
+						"canvas_top": 339,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_1",
-						"canvas_left": 515,
-						"canvas_top": 962,
+						"canvas_left": 135,
+						"canvas_top": 339,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_2",
-						"canvas_left": 401,
-						"canvas_top": 867,
+						"canvas_left": 91,
+						"canvas_top": 241,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_2",
-						"canvas_left": 348,
-						"canvas_top": 867,
+						"canvas_left": 38,
+						"canvas_top": 241,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_3",
-						"canvas_left": 177,
-						"canvas_top": 643,
+						"canvas_left": 189,
+						"canvas_top": 180,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_3",
-						"canvas_left": 124,
-						"canvas_top": 643,
+						"canvas_left": 136,
+						"canvas_top": 180,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_4",
-						"canvas_left": 92,
-						"canvas_top": 245,
+						"canvas_left": 186,
+						"canvas_top": 15,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_4",
-						"canvas_left": 39,
-						"canvas_top": 245,
+						"canvas_left": 133,
+						"canvas_top": 15,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_5",
-						"canvas_left": 196,
-						"canvas_top": 179,
+						"canvas_left": 419,
+						"canvas_top": 20,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_5",
-						"canvas_left": 143,
-						"canvas_top": 179,
+						"canvas_left": 366,
+						"canvas_top": 20,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_6",
-						"canvas_left": 190,
-						"canvas_top": 17,
+						"canvas_left": 458,
+						"canvas_top": 223,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_6",
-						"canvas_left": 137,
-						"canvas_top": 17,
+						"canvas_left": 405,
+						"canvas_top": 223,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_7",
-						"canvas_left": 586,
-						"canvas_top": 319,
+						"canvas_left": 505,
+						"canvas_top": 353,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_7",
-						"canvas_left": 533,
-						"canvas_top": 319,
+						"canvas_left": 452,
+						"canvas_top": 353,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_8",
-						"canvas_left": 457,
-						"canvas_top": 435,
+						"canvas_left": 874,
+						"canvas_top": 461,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -161,8 +161,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_8",
-						"canvas_left": 404,
-						"canvas_top": 435,
+						"canvas_left": 821,
+						"canvas_top": 461,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -170,8 +170,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_9",
-						"canvas_left": 509,
-						"canvas_top": 565,
+						"canvas_left": 399,
+						"canvas_top": 561,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -179,8 +179,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_9",
-						"canvas_left": 456,
-						"canvas_top": 565,
+						"canvas_left": 346,
+						"canvas_top": 561,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -188,8 +188,8 @@
 					{
 						"type": "item",
 						"item": "slot_mansion_10",
-						"canvas_left": 872,
-						"canvas_top": 673,
+						"canvas_left": 566,
+						"canvas_top": 664,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -197,8 +197,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_mansion_10",
-						"canvas_left": 819,
-						"canvas_top": 673,
+						"canvas_left": 513,
+						"canvas_top": 664,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -209,7 +209,7 @@
 						"canvas_left": 32,
 						"canvas_top": 0,
 						"width": 936,
-						"height": 1024,
+						"height": 704,
 						"canvas_depth": 0
 					}
 				]

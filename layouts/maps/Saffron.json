@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_0",
-						"canvas_left": 82,
-						"canvas_top": 398,
+						"canvas_left": 87,
+						"canvas_top": 368,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_0",
-						"canvas_left": 29,
-						"canvas_top": 398,
+						"canvas_left": 34,
+						"canvas_top": 368,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_1",
-						"canvas_left": 887,
-						"canvas_top": 399,
+						"canvas_left": 496,
+						"canvas_top": 38,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_1",
-						"canvas_left": 834,
-						"canvas_top": 399,
+						"canvas_left": 443,
+						"canvas_top": 38,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_2",
-						"canvas_left": 508,
-						"canvas_top": 70,
+						"canvas_left": 856,
+						"canvas_top": 367,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_2",
-						"canvas_left": 455,
-						"canvas_top": 70,
+						"canvas_left": 803,
+						"canvas_top": 367,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_3",
-						"canvas_left": 514,
-						"canvas_top": 720,
+						"canvas_left": 495,
+						"canvas_top": 672,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_3",
-						"canvas_left": 461,
-						"canvas_top": 720,
+						"canvas_left": 442,
+						"canvas_top": 672,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_4",
-						"canvas_left": 345,
-						"canvas_top": 580,
+						"canvas_left": 329,
+						"canvas_top": 530,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_4",
-						"canvas_left": 292,
-						"canvas_top": 580,
+						"canvas_left": 276,
+						"canvas_top": 530,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_5",
-						"canvas_left": 651,
-						"canvas_top": 580,
+						"canvas_left": 475,
+						"canvas_top": 396,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_5",
-						"canvas_left": 598,
-						"canvas_top": 580,
+						"canvas_left": 422,
+						"canvas_top": 396,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_6",
-						"canvas_left": 490,
-						"canvas_top": 448,
+						"canvas_left": 636,
+						"canvas_top": 532,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_6",
-						"canvas_left": 437,
-						"canvas_top": 448,
+						"canvas_left": 583,
+						"canvas_top": 532,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_7",
-						"canvas_left": 394,
-						"canvas_top": 312,
+						"canvas_left": 385,
+						"canvas_top": 257,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_7",
-						"canvas_left": 341,
-						"canvas_top": 312,
+						"canvas_left": 332,
+						"canvas_top": 257,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_8",
-						"canvas_left": 716,
-						"canvas_top": 312,
+						"canvas_left": 584,
+						"canvas_top": 258,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -161,8 +161,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_8",
-						"canvas_left": 663,
-						"canvas_top": 312,
+						"canvas_left": 531,
+						"canvas_top": 258,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -170,8 +170,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_9",
-						"canvas_left": 594,
-						"canvas_top": 308,
+						"canvas_left": 710,
+						"canvas_top": 241,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -179,8 +179,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_9",
-						"canvas_left": 541,
-						"canvas_top": 308,
+						"canvas_left": 657,
+						"canvas_top": 241,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -188,8 +188,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_10",
-						"canvas_left": 319,
-						"canvas_top": 196,
+						"canvas_left": 568,
+						"canvas_top": 131,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -197,8 +197,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_10",
-						"canvas_left": 266,
-						"canvas_top": 196,
+						"canvas_left": 515,
+						"canvas_top": 131,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -206,8 +206,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_11",
-						"canvas_left": 593,
-						"canvas_top": 158,
+						"canvas_left": 683,
+						"canvas_top": 97,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -215,8 +215,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_11",
-						"canvas_left": 540,
-						"canvas_top": 158,
+						"canvas_left": 630,
+						"canvas_top": 97,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -224,8 +224,8 @@
 					{
 						"type": "item",
 						"item": "slot_saffron_12",
-						"canvas_left": 707,
-						"canvas_top": 158,
+						"canvas_left": 307,
+						"canvas_top": 149,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -233,8 +233,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_saffron_12",
-						"canvas_left": 654,
-						"canvas_top": 158,
+						"canvas_left": 254,
+						"canvas_top": 149,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -242,10 +242,10 @@
 					{
 						"type": "item",
 						"item": "saffron",
-						"canvas_left": -28,
+						"canvas_left": 52,
 						"canvas_top": 0,
-						"width": 1056,
-						"height": 880,
+						"width": 896,
+						"height": 768,
 						"canvas_depth": 0
 					}
 				]

@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_0",
-						"canvas_left": 106,
-						"canvas_top": 439,
+						"canvas_left": 89,
+						"canvas_top": 328,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_0",
-						"canvas_left": 53,
-						"canvas_top": 439,
+						"canvas_left": 36,
+						"canvas_top": 328,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_1",
-						"canvas_left": 151,
-						"canvas_top": 489,
+						"canvas_left": 153,
+						"canvas_top": 67,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_1",
-						"canvas_left": 98,
-						"canvas_top": 489,
+						"canvas_left": 100,
+						"canvas_top": 67,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_2",
-						"canvas_left": 265,
-						"canvas_top": 536,
+						"canvas_left": 328,
+						"canvas_top": 137,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_2",
-						"canvas_left": 212,
-						"canvas_top": 536,
+						"canvas_left": 275,
+						"canvas_top": 137,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_3",
-						"canvas_left": 363,
-						"canvas_top": 515,
+						"canvas_left": 475,
+						"canvas_top": 102,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_3",
-						"canvas_left": 310,
-						"canvas_top": 515,
+						"canvas_left": 422,
+						"canvas_top": 102,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_4",
-						"canvas_left": 325,
-						"canvas_top": 490,
+						"canvas_left": 491,
+						"canvas_top": 37,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_4",
-						"canvas_left": 272,
-						"canvas_top": 490,
+						"canvas_left": 438,
+						"canvas_top": 37,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,8 +98,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_5",
-						"canvas_left": 153,
-						"canvas_top": 87,
+						"canvas_left": 651,
+						"canvas_top": 167,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -107,8 +107,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_5",
-						"canvas_left": 100,
-						"canvas_top": 87,
+						"canvas_left": 598,
+						"canvas_top": 167,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -116,8 +116,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_6",
-						"canvas_left": 329,
-						"canvas_top": 119,
+						"canvas_left": 812,
+						"canvas_top": 35,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -125,8 +125,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_6",
-						"canvas_left": 276,
-						"canvas_top": 119,
+						"canvas_left": 759,
+						"canvas_top": 35,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -134,8 +134,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_7",
-						"canvas_left": 473,
-						"canvas_top": 119,
+						"canvas_left": 935,
+						"canvas_top": 193,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -143,8 +143,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_7",
-						"canvas_left": 420,
-						"canvas_top": 119,
+						"canvas_left": 882,
+						"canvas_top": 193,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -152,8 +152,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_8",
-						"canvas_left": 490,
-						"canvas_top": 53,
+						"canvas_left": 922,
+						"canvas_top": 501,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -161,190 +161,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_8",
-						"canvas_left": 437,
-						"canvas_top": 53,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "seafoam_islands",
-						"canvas_left": 4,
-						"canvas_top": 0,
-						"width": 992,
-						"height": 768,
-						"canvas_depth": 0
-					}
-				]
-			}
-		]
-	}
-}{
-	"seafoam_islands": {
-		"type": "container",
-		"content": [
-			{
-				"type": "canvas",
-				"content": [
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_0",
-						"canvas_left": 154,
-						"canvas_top": 83,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_0",
-						"canvas_left": 101,
-						"canvas_top": 83,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_1",
-						"canvas_left": 331,
-						"canvas_top": 118,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_1",
-						"canvas_left": 278,
-						"canvas_top": 118,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_2",
-						"canvas_left": 476,
-						"canvas_top": 115,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_2",
-						"canvas_left": 423,
-						"canvas_top": 115,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_3",
-						"canvas_left": 488,
-						"canvas_top": 51,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_3",
-						"canvas_left": 435,
-						"canvas_top": 51,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_4",
-						"canvas_left": 105,
-						"canvas_top": 434,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_4",
-						"canvas_left": 52,
-						"canvas_top": 434,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_5",
-						"canvas_left": 153,
-						"canvas_top": 489,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_5",
-						"canvas_left": 100,
-						"canvas_top": 489,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_6",
-						"canvas_left": 264,
-						"canvas_top": 541,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_6",
-						"canvas_left": 211,
-						"canvas_top": 541,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_7",
-						"canvas_left": 369,
-						"canvas_top": 532,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_7",
-						"canvas_left": 316,
-						"canvas_top": 532,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_8",
-						"canvas_left": 326,
-						"canvas_top": 499,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_8",
-						"canvas_left": 273,
-						"canvas_top": 499,
+						"canvas_left": 869,
+						"canvas_top": 501,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -352,8 +170,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_9",
-						"canvas_left": 90,
-						"canvas_top": 324,
+						"canvas_left": 621,
+						"canvas_top": 389,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -361,8 +179,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_9",
-						"canvas_left": 37,
-						"canvas_top": 324,
+						"canvas_left": 568,
+						"canvas_top": 389,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -370,8 +188,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_10",
-						"canvas_left": 490,
-						"canvas_top": 266,
+						"canvas_left": 552,
+						"canvas_top": 471,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -379,8 +197,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_10",
-						"canvas_left": 437,
-						"canvas_top": 266,
+						"canvas_left": 499,
+						"canvas_top": 471,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -388,8 +206,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_11",
-						"canvas_left": 722,
-						"canvas_top": 296,
+						"canvas_left": 512,
+						"canvas_top": 518,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -397,8 +215,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_11",
-						"canvas_left": 669,
-						"canvas_top": 296,
+						"canvas_left": 459,
+						"canvas_top": 518,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -406,8 +224,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_12",
-						"canvas_left": 764,
-						"canvas_top": 344,
+						"canvas_left": 580,
+						"canvas_top": 553,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -415,8 +233,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_12",
-						"canvas_left": 711,
-						"canvas_top": 344,
+						"canvas_left": 527,
+						"canvas_top": 553,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -424,8 +242,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_13",
-						"canvas_left": 815,
-						"canvas_top": 301,
+						"canvas_left": 495,
+						"canvas_top": 645,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -433,8 +251,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_13",
-						"canvas_left": 762,
-						"canvas_top": 301,
+						"canvas_left": 442,
+						"canvas_top": 645,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -442,8 +260,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_14",
-						"canvas_left": 859,
-						"canvas_top": 347,
+						"canvas_left": 615,
+						"canvas_top": 679,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -451,8 +269,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_14",
-						"canvas_left": 806,
-						"canvas_top": 347,
+						"canvas_left": 562,
+						"canvas_top": 679,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -460,8 +278,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_15",
-						"canvas_left": 890,
-						"canvas_top": 262,
+						"canvas_left": 365,
+						"canvas_top": 505,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -469,8 +287,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_15",
-						"canvas_left": 837,
-						"canvas_top": 262,
+						"canvas_left": 312,
+						"canvas_top": 505,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -478,8 +296,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_16",
-						"canvas_left": 650,
-						"canvas_top": 348,
+						"canvas_left": 266,
+						"canvas_top": 545,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -487,8 +305,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_16",
-						"canvas_left": 597,
-						"canvas_top": 348,
+						"canvas_left": 213,
+						"canvas_top": 545,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -496,8 +314,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_17",
-						"canvas_left": 488,
-						"canvas_top": 470,
+						"canvas_left": 154,
+						"canvas_top": 491,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -505,8 +323,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_17",
-						"canvas_left": 435,
-						"canvas_top": 470,
+						"canvas_left": 101,
+						"canvas_top": 491,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -514,8 +332,8 @@
 					{
 						"type": "item",
 						"item": "slot_seafoam_islands_18",
-						"canvas_left": 777,
-						"canvas_top": 503,
+						"canvas_left": 103,
+						"canvas_top": 433,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -523,116 +341,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_seafoam_islands_18",
-						"canvas_left": 724,
-						"canvas_top": 503,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_19",
-						"canvas_left": 514,
-						"canvas_top": 694,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_19",
-						"canvas_left": 461,
-						"canvas_top": 694,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_20",
-						"canvas_left": 576,
-						"canvas_top": 727,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_20",
-						"canvas_left": 523,
-						"canvas_top": 727,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_21",
-						"canvas_left": 557,
-						"canvas_top": 645,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_21",
-						"canvas_left": 504,
-						"canvas_top": 645,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_22",
-						"canvas_left": 619,
-						"canvas_top": 563,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_22",
-						"canvas_left": 566,
-						"canvas_top": 563,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_23",
-						"canvas_left": 800,
-						"canvas_top": 589,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_23",
-						"canvas_left": 747,
-						"canvas_top": 589,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
-						"item": "slot_seafoam_islands_24",
-						"canvas_left": 924,
-						"canvas_top": 676,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_seafoam_islands_24",
-						"canvas_left": 871,
-						"canvas_top": 676,
+						"canvas_left": 50,
+						"canvas_top": 433,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
